@@ -175,7 +175,7 @@ if __name__ == "__main__":
     movie_invert_index = create_inverted_index(file)
     sorted_invert_index = get_sorted_dic_with_length(movie_invert_index.copy())
     postings_lenth = get_total_posting_length(sorted_invert_index)
-    stop_words = take(10, sorted_invert_index.keys()):
+    stop_words = take(10, sorted_invert_index.keys())
     stop_words_posting_lenth = sum(take(10, sorted_invert_index.values()))
 
     movie_invert_index_lower = create_inverted_index(file, lowercase=True)
