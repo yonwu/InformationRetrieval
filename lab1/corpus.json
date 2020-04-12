@@ -1,0 +1,408 @@
+{
+    "nce1": [
+        {
+            "Lesson 1 Excuse me!": [
+                "Excuse me!",
+                "Yes?",
+                "Is this your handbag?",
+                "Pardon?",
+                "Is this your handbag?",
+                "Yes, it is.",
+                "Thankyou very much."
+            ],
+            "Lesson 3 Sorry,sir...!": [
+                "My coat and my umbrella please.",
+                "Here is my ticket.",
+                "Thank you, sir.Number five.",
+                "Here's your umbrellaand your coat.",
+                "This is not my umbrella.Sorry, sir.",
+                "Is this your umbrella?No, it isn't.",
+                "Is this it?Yes, it is.Thank you very much."
+            ],
+            "Lesson 5 Nice to meet": [
+                "MR. BLAKE：Good morning.STUDENTS：Good morning, Mr. Blake.",
+                "MR BLAKE：This is Miss Sophie Dupont.Sophie is a new student.She is French.",
+                "MR. BLAKE：Sophie, this is Hans.He is German.HANS：Nice to meet you.",
+                "MR. BLAKE：And this is Naoko.She's Japanese.NAOKO：Nice to meet you.",
+                "MR. BLAKE：And this is Chang-woo.He's Korean.CHANG-WOO：Nice to meet you.",
+                "MR. BLAKE：And this is Luming.He's Chinese.LUMING：Nice to meet you.",
+                "MR. BLAKE：And this is Xiaohui.She's Chinese, too.XIAOHUI：Nice to meet you."
+            ],
+            "Lesson 7 Are you a teacher?": [
+                "ROBERT：I am a new student.My name's Robert.SOPHIE：Nice to meet you.My name's Sophie.",
+                "ROBERT：Are you French?SOPHIE：Yes, I am.",
+                "SOPHIE：Are you French, too?ROBERT：No, I am not.",
+                "SOPHIE：What nationality are you?ROBERT：I'm Italian.",
+                "ROBERT：Are you a teacher？SOPHIE：No, I'm not.",
+                "ROBERT：What's your job?SOPHIE：I'm a keyboard operator.",
+                "SOPHIE：What's your job?ROBERT：I'm an engineer."
+            ],
+            "Lesson 9 How are you today?": [
+                "STEVEN：Hello, Helen.HELEN：Hi, Steven.",
+                "STEVEN：How are you today?HELEN：I'm very well, thank you.And you?",
+                "STEVEN：I'm fine, thanks.",
+                "STEVEN：How is Tony?HELEN：He's fine, thanks.How's Emma?STEVEN：She's very well, too, Helen.",
+                "STEVEN：Goodbye, Helen.Nice to see you.HELEN：Nice to see you, too, Steven.Goodbye."
+            ],
+            "Lesson 11 Is this your shirt?": [
+                "TEACHER: Whose shirt is that?TEACHER: Is this your shirt,Dave?",
+                "DAVE: No ,sir.It's not my shirt.",
+                "DAVE: This is my shirt.My shirt's blue.",
+                "TEACHER: Is this shirt Tim's?DAVE: Perhaps it is,sir.Tim's shirt's white.",
+                "TEACHER: Tim!TIM: Yes,sir?",
+                "TEACHER:Is this your shirt?TIM: Yes,sir.",
+                "TEACHER:Here you are.Catch!TIM: Thank you,sir."
+            ],
+            "Lesson 13 A new dress": [
+                "LOUISE：What colour's your new dress?ANNA：It's green.",
+                "ANNA：Come upstairs and see it.LOUISE：Thank you.",
+                "ANNA：Look!Here it is!LOUISE：That's a nice dress.It's very smart.",
+                "ANNA：My hat's new, too.LOUISE：What colour is it?",
+                "ANNA：It's the same colour.It's green, too.",
+                "LOUISE：That is a lovely hat!"
+            ],
+            "Lesson 15 Your passports,please.": [],
+            "Lesson 17 How do you do?": [
+                "MR.JACKSON：Come and meet our employees,Mr.Richards.MR.RICHARDS：Thank you, Mr.Jackson.",
+                "MR.JACKSON：This is Nicola Grey,and this is Claire Taylor.MR.RICHARDS：How do you do?",
+                "MR.RICHARDS：Those women are very hard-working.What are their jobs?MR.JACKSON：They're keyboard operators.",
+                "MR.JACKSON：This is Michael Baker,and this is Jeremy Short.MR.RICHARDS：How do you do?",
+                "MR.RICHARDS：They aren't very busy!What are their jobs?MR.JACKSON：They're sales reps.They're very lazy.",
+                "MR.RICHARDS：Who is this young man?MR.JACKSON：This is Jim.He's our office assistant."
+            ],
+            "Lesson 19 Tired and thirsty": [
+                "MOTHER：What's the matter, children?GIRL：We're tired…BOY：…and thirsty, Mum.",
+                "MOTHER：Sit down here.",
+                "MOTHER：Are you all right now?BOY：No, we aren't.",
+                "MOTHER：Look!There's an ice cream man.",
+                "MOTHER：Two ice creams please.",
+                "MOTHER：Here you are, children.CHILDREN：Thanks, Mum.",
+                "GIRL：These ice creams are nice.",
+                "MOTHER：Are you all right now?CHILDREN：Yes, we are, thank you!"
+            ]
+        }
+    ],
+    "nce2": [
+        {
+            "Lesson 1 A private conversation": [
+                [
+                    "Last week I went to the theatre. I had a very good seat. The play was very interesting. I did not enjoy it. A young man and a young woman were sitting behind me. They were talking loudly. I got very angry. I could not hear the actors. I turned round. I looked at the man and the woman angrily. They did not pay any attention. In the end, I could not bear it. I turned round again. 'I can't hear a word!' I said angrily."
+                ],
+                [
+                    "'It's none of your business,' the young man said rudely. 'This is a private conversation!'"
+                ]
+            ],
+            "Lesson 2 Breakfast or lunch?": [
+                [
+                    "It was Sunday. I never get up early on Sundays. I sometimes stay in bed until lunchtime. Last Sunday I got up very late. I looked out of the window. It was dark outside. 'What a day!' I thought. 'It's raining again.' Just then, the telephone rang. It was my aunt Lucy. 'I've just arrived by train,' she said. 'I'm coming to see you.'"
+                ],
+                [
+                    "'But I'm still having breakfast,' I said."
+                ],
+                [
+                    "'What are you doing?' she asked."
+                ],
+                [
+                    "'I'm having breakfast,' I repeated."
+                ],
+                [
+                    "'Dear me,' she said. 'Do you always get up so late? It's one o'clock!'"
+                ]
+            ],
+            "Lesson 3 Please send me a card": [
+                [
+                    "Postcards always spoil my holidays. Last summer, I went to Italy. I visited museums and sat in public gardens. A friendly waiter taught me a few words of Italian. Then he lent me a book. I read a few lines, but I did not understand a word. Everyday I thought about postcards. My holidays passed quickly, but I did not send cards to my friends. On the last day I made a big decision. I got up early and bought thirty-seven cards. I spent the whole day in my room, but I did not write a single card!"
+                ]
+            ],
+            "Lesson 4 An exciting trip": [
+                [
+                    "I have just received a letter from my brother, Tim. He is in Australia. He has been there for six months. Tim is an engineer. He is working for a big firm and he has already visited a great number of different places in Australia. He has just bought an Australian car and has gone to Alice springs, a small town in the centre of Australia. He will soon visit Darwin. From there, he will fly to Perth. My brother has never been abroad before, so he is fending this trip very exciting."
+                ]
+            ],
+            "Lesson 5 No wrong numbers": [
+                [
+                    "Mr.James Scott has a garage in Silbury and now he has just bought another garage in Pinhurst. Pinhurst is only five miles from Silbury, but Mr. Scott cannot get a telephone for his new garage, so he has just bought twelve pigeons. Yesterday, a pigeon carried the first message from Pinhurst to Silbury. The bird covered the distance in three minutes. Up to now, Mr.Scott has sent a great many requests for spare parts and other urgent messages from one garage to the other. In this way, he has begun his own private 'telephone' service."
+                ]
+            ],
+            "Lesson 6 Percy Buttons": [
+                [
+                    "I have just moved to a house in Bridge Street. Yesterday a beggar knocked at my door. He asked me for a meal and a glass of beer. In return for this, the beggar stood on his head and sang songs. I gave him a meal. He ate the food and drank the beer. Then he put a piece of cheese in his pocket and went away. Later a neighbour told me about him. Everybody knows him. His name is Percy Buttons. He calls at every house in the street once a month and always asks for a meal and a glass of beer."
+                ]
+            ],
+            "Lesson 7 Too late": [
+                [
+                    "The plane was late and detectives were waiting at the airport all morning. They were expecting a valuable parcel of diamonds from South Africa. A few hours earlier, someone had told the police that thieves would try to steal the diamonds. When the plane arrived, some of the detectives were waiting inside the main building while others were waiting on the airfield. Two men took the parcel off the plane and carried it into the Customs House. While two detectives were keeping guard at the door, two others opened the parcel. To their surprise, the precious parcel was full of stones and sand!"
+                ]
+            ],
+            "Lesson 8 The best and the worst": [
+                [
+                    "Joe Sanders has the most beautiful garden in our town. Nearly everybody enters for 'The Nicest Garden Competition' each year, but Joe wins every time. Bill Frith's garden is larger than Joe's. Bill works harder than Joe and grows more flowers and vegetables, but Joe's garden is more interesting. He has made neat paths and has built a wooden bridge over a pool. I like gardens too, but I do not like hard work. Every year I enter for the garden competition too, and I always win a little prize for the worst garden in the town!"
+                ]
+            ],
+            "Lesson 9 A cold welcome": [
+                [
+                    "On Wednesday evening, we went to the Town Hall. It was the last day of the year and a large crowd of people had gathered under the Town Hall clock. It would strike twelve in twenty minutes' time. Fifteen minutes passed and then, at five to twelve, the clock stopped. The big minute hand did not move. We waited and waited, but nothing happened. Suddenly someone shouted. 'It's two minutes past twelve! The clock has stopped!' I looked at my watch. It was true. The big clock refused to welcome the New Year. At that moment, everybody began to laugh and sing."
+                ]
+            ],
+            "Lesson 10 Not for jazz": [
+                [
+                    "We have an old musical instrument. It is called a clavichord. It was made in Germany in 1681. Our clavichord is kept in the living room. It has belonged to our family for a long time . The instrument was bought by my grandfather many years ago . Recently it was damaged by a visitor . She tried to play jazz on it! She struck the keys too hard and two of the strings were broken. My father was shocked. Now we are not allowed to touch it . It is being repaired by a friend of my father's."
+                ]
+            ]
+        }
+    ],
+    "nce3": [
+        {
+            "Lesson 1 A puma at large": [
+                [
+                    "Pumas are large, cat-like animals which are found in America. When reports came into London Zoo that a wild puma had been spotted forty-five miles south of London, they were not taken seriously. However, as the evidence began to accumulate, experts from the Zoo felt obliged to investigate, for the descriptions given by people who claimed to have seen the puma were extraordinarily similar."
+                ],
+                [
+                    "The hunt for the puma began in a small village where a woman picking blackberries saw 'a large cat' only five yards away from her. It immediately ran away when she saw it, and experts confirmed that a puma will not attack a human being unless it is cornered. The search proved difficult, for the puma was often observed at one place in the morning and at another place twenty miles away in the evening. Wherever it went, it left behind it a trail of dead deer and small animals like rabbits. Paw prints were seen in a number of places and puma fur was found clinging to bushes. Several people complained of \"cat-like noises' at night and a businessman on a fishing trip saw the puma up a tree. The experts were now fully convinced that the animal was a puma, but where had it come from? As no pumas had been reported missing from any zoo in the country, this one must have been in the possession of a private collector and somehow managed to escape. The hunt went on for several weeks, but the puma was not caught. It is disturbing to think that a dangerous wild animal is still at large in the quiet countryside."
+                ]
+            ],
+            "Lesson 2 Thirteen equals one": [
+                [
+                    "Our vicar is always raising money for one cause or another, but he has never managed to get enough money to have the church clock repaired. The big clock which used to strike the hours day and night was damaged many years ago and has been silent ever since."
+                ],
+                [
+                    "One night, however, our vicar woke up with a start: the clock was striking the hours! Looking at his watch, he saw that it was one o'clock, but the bell struck thirteen times before it stopped. Armed with a torch, the vicar went up into the clock tower to see what was going on. In the torchlight, he caught sight of a figure whom he immediately recognized as Bill Wilkins, our local grocer."
+                ],
+                [
+                    "'Whatever are you doing up here Bill?' asked the vicar in surprise.",
+                    "'I'm trying to repair the bell,' answered Bill. 'I've been coming up here night after night for weeks now. You see, I was hoping to give you a surprise.'",
+                    "'You certainly did give me a surprise!' said the vicar. 'You've probably woken up everyone in the village as well. Still, I'm glad the bell is working again.'",
+                    "That's the trouble, vicar,' answered Bill. 'It's working all right, but I'm afraid that at one o'clock it will strike thirteen times and there's nothing I can do about it.\"",
+                    "We'll get used to that, Bill,' said the vicar. \"Thirteen is not as good as one, but it's better than nothing. Now let's go downstairs and have a cup of tea.'"
+                ]
+            ],
+            "Lesson 3 An unknown goddess": [
+                [
+                    "Some time ago, an interesting discovery was made by archaeologists on the Aegean island of Kea. An American team explored a temple which stands in an ancient city on the promontory of Ayia Irini. The city at one time must have been prosperous, for it enjoyed a high level of civilization. Houses, often three storeys high, were built of stone. They had large rooms with beautifully decorated walls. The city was even equipped with a drainage system, for a great many clay pipes were found beneath the narrow streets."
+                ],
+                [
+                    "The temple which the archaeologists explored was used as a place of worship from the 15th century B.C. until Roman times. In the most sacred room of the temple, clay fragments of 15 statues were found. Each of these represented a goddess and had, at one time, been painted."
+                ],
+                [
+                    "The body of one statue was found among remains dating from the 15th century B.C. Its missing head happened to be among remains of the 5th century B.C. This head must have been found in Classical times and carefully preserved. It was very old and precious even then. When the archaeologists reconstructed the fragments, they were amazed to find that the goddess turned out to be a very modern-looking woman. She stood three feet high and her hands rested on her hips."
+                ],
+                [
+                    "She was wearing a full-length skirt which swept the ground. Despite her great age, she was very graceful indeed, but, so far, the archaeologists have been unable to discover her identity."
+                ]
+            ],
+            "Lesson 4 The double life of Alfred Bloggs": [
+                [
+                    "These days, people who do manual work often receive far more money than people who work in offices. People who work in offices are frequently referred to as \"white-collar workers' for the simple reason that they usually wear a collar and tie to go to work. Such is human nature, that a great many people are often willing to sacrifice higher pay for the privilege of becoming white-collar workers. This can give rise to curious situations, as it did in the case of Alfred Bloggs who worked as a dustman for the Ellesmere Corporation."
+                ],
+                [
+                    "When he got married, Alf was too embarrassed to say anything to his wife about his job. He simply told her that he worked for the Corporation. Every morning, he left home dressed in a smart black suit. He then changed into overalls and spent the next eight hours as a dustman. Before returning home at night. He took a shower and changed back into his suit. Alf did this for over two years and his fellow dustmen kept his secret Alf's wife has never discovered that she married a dustman and she never will, for Alf has just found another job. He will soon be working in an office. He will be earning only half as much as he used to, but he feels that his rise in status is well worth the loss of money. From now on, he will wear a suit all day and others will call him 'Mr. Bloggs', not 'Alf'."
+                ]
+            ],
+            "Lesson 5 The facts": [
+                [
+                    "Editors of newspapers and magazines often go to extremes to provide their readers with unimportant facts and statistics. Last year a journalist had been instructed by a well-known magazine to write an article on the president's palace in a new African republic. When the article arrived, the editor read the first sentence and then refused to publish it. The article began: ‘Hundreds of steps lead to the high wall which surrounds the president's palace. ’The editor at once sent the journalist a fax instructing him to find out the exact number of steps and the height of the wall."
+                ],
+                [
+                    "The journalist immediately set out to obtain these important facts, but he took a long time to send them. two more faxes, but received no reply. He sent yet another fax informing the journalist that if he did not reply soon he would be fired. When the journalist again failed to reply, the editor reluctantly published the only had the poor man been arrested, but he had been sent to prison as well. However, he had at last been allowed to send a fax in which he informed the editor that he had been arrested while counting the 1, 084 steps leading to the fifteen-foot wall which surrounded the president's palace."
+                ]
+            ],
+            "Lesson 6 Smash-and-grab": [
+                [
+                    "The expensive shops in a famous arcade near Piccadilly were just opening. At this time of the morning, the arcade was almost empty. Mr. Taylor, the owner of a jewellery shop was admiring a new window display. Two of his assistants had been working busily since eight o'clock and had only just finished. Diamond necklaces and rings had been beautifully arranged on a background of black velvet. After gazing at the display for several minutes, Mr. Taylor went back into his shop."
+                ],
+                [
+                    "The silence was suddenly broken when a large car, with its headlights on and its horn blaring, roared down the arcade. It came to a stop outside the jeweller's. One man stayed at the wheel while two others with black stockings over their faces jumped out and smashed the window of the shop with iron bars. While this was going on, Mr. Taylor was upstairs. He and his staff began throwing furniture out of the window. Chairs and tables went flying into the arcade. One of the thieves was struck by a heavy statue, but he was too busy helping himself to diamonds to notice any pain. The raid was all over in three minutes, for the men scrambled back into the car and it moved off at a fantastic speed. Just as it was leaving, Mr. Taylor rushed out and ran after it throwing ashtrays and vases, but it was impossible to stop the thieves. They had got away with thousands of pounds worth of diamonds."
+                ]
+            ],
+            "Lesson 7 Mutilated ladies": [
+                [
+                    "Has it ever happened to you? Have you ever put your trousers in the washing machine and then remembered there was a large bank note in your back pocket? When you rescued your trousers, did you find the note was whiter than white? People who live in Britain needn't despair when they make mistakes like this(and a lot of people do)! Fortunately for them, the Bank of England has a team called Mutilated Ladies which deals with claims from people who fed their money to a machine or to their dog. Dogs, it seems, love to chew up money!"
+                ],
+                [
+                    "A recent case concerns Jane Butlin whose fiancé, John, runs a successful furniture business. John had a very good day and put his wallet containing ￡ 3, 000 into the microwave oven for safekeeping. Then he and Jane went horse-riding. When they got home, Jane cooked their dinner in the microwave oven and without realizing it, cooked her fiancé's wallet as well. Imagine their dismay when they found a beautifully-cooked wallet and notes turned to ash! John went to see his bank manager who sent the remains of wallet and the money to the special department of the Bank of England in Newcastle: the Mutilated Ladies! They examined the remains and John got all his money back. ‘So long as there's something to identify, we will give people their money back, ’said a spokeswoman for the Bank. ‘Last year, we paid ￡ 1. 5m on 21, 000 claims. ’"
+                ],
+                [
+                    "* Damaged bank notes. The Queen's head appears on English bank notes，and‘lady’refers to this."
+                ]
+            ],
+            "Lesson 8 A famous monastery": [
+                [
+                    "The Great St. Bernard Pass connects Switzerland to Italy. At 2, 473 metres, it is the highest mountain pass in Europe. The famous monastery of St. Bernard, which was founded in the eleventh century, lies about a mile away. For hundreds of years, St. Bernard dogs have saved the lives of travellers crossing the dangerous Pass. These friendly dogs, which were first brought from Asia, were used as watchdogs even in Roman times. Now that a tunnel has been built through the mountains, the Pass is less dangerous, but each year, the dogs are still sent out into the snow whenever a traveller is in difficulty. Despite the new tunnel, there are still a few people who rashly attempt to cross the Pass on foot."
+                ],
+                [
+                    "During the summer months, the monastery is very busy, for it is visited by thousands of people who cross the Pass in cars. As there are so many people about, the dogs have to be kept in a special enclosure. In winter, however, life at the monastery is quite different. The temperature drops to-30°and very few people attempt to cross the Pass. The monks prefer winter to summer for they have more privacy. The dogs have greater freedom, too, for they are allowed to wander outside their enclosure. The only regular visitors to the monastery in winter are parties of skiers who go there at Christmas and Easter. These young people, who love the peace of the mountains, always receive a warm welcome at St. Bernard's monastery."
+                ]
+            ],
+            "Lesson 9 Flying cats": [
+                [
+                    "Cats never fail to fascinate human beings. They can be friendly and affectionate towards humans, but they lead mysterious lives of their own as well. They never become submissive like dogs and horses. As a result, humans have learned to respect feline independence. Most cats remain suspicious of humans all their lives. One of the things that fascinates us most about cats is the popular belief that they have nine lives. Apparently, there is a good deal of truth in this idea. A cat's ability to survive falls is based on fact."
+                ],
+                [
+                    "Recently the New York Animal Medical Centre made a study of 132 cats over a period of five months. All these cats had one experience in common: they had fallen off high buildings, yet only eight of them died from shock or injuries. Of course, New Yorkis the ideal place for such an interesting study, because there is no shortage of tall buildings. There are plenty of high-rise windowsills to fall, from! One cat, Sabrina, fell 32 storeys, yet only suffered from a broken tooth. ‘Cats behave like well-trained paratroopers, ’ a doctor said. It seems that the further cats fall, the less they are likely to injure themselves. In a long drop, they reach speeds of 60 miles an hour and more. At high speeds, falling cats have time to relax. They stretch out their legs like flying squirrels. This increases their air-resistance and reduces the shock of impact when they hit the ground."
+                ]
+            ],
+            "Lesson 10 The loss of the Titanic": [
+                [
+                    "The great ship, Titanic, sailed for New York from Southampton on April 10th, 1912. She was carrying 1, 316 passengers and a crew of 891. Even by modern standards, the 46, 000 ton Titanic was a colossal ship. At that time, however, she was not only the largest ship that had ever been built, but was regarded as unsinkable, for she had sixteen watertight compartments. Even if two of these were flooded, she would still be able to float. The tragic sinking of this great liner will always be remembered, for she went down on her first voyage with heavy loss of life."
+                ],
+                [
+                    "Four days after setting out, while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly spotted by a lookout. After the alarm had been given, the great ship turned sharply to avoid a direct collision. The Titanic turned just in time, narrowly missing the immense wall of ice which rose over 100 feet out of the water beside her. Suddenly, there was a slight trembling sound from below, and the captain went down to see what had happened. The noise had been so faint that no one thought that the ship had been damaged. Below, the captain realized to his horror that the Titanic was sinking rapidly, for five of her sixteen watertight compartments had already been flooded! The order to abandon ship was given and hundreds of people plunged into the icy water. As there were not enough lifeboats for everybody, 1, 500 lives were lost."
+                ]
+            ],
+            "Lesson 11 Not guilty": [
+                [
+                    "Customs Officers are quite tolerant these days, but they can still stop you when you are going through the Green Channel and have nothing to declare. Even really honest people are often made to feel guilty. The hardened professional smuggler, on the other hand, is never troubled by such feelings, even if he has five hundred gold watches hidden in his suitcase. When I returned from abroad recently, a particularly officious young Customs Officer clearly regarded me as a smuggler."
+                ],
+                [
+                    "‘Have you anything to declare? ’ he asked, looking me in the eye.",
+                    "‘No, ’ I answered confidently.",
+                    "‘Would you mind unlocking this suitcase please? ’",
+                    "‘Not at all, ’ I answered."
+                ],
+                [
+                    "The Officer went through the case with great care. All the things I had packed so carefully were soon in a dreadful mess. I felt sure I would never be able to close the case again. Suddenly, I saw the Officer's face light, up. He had spotted a tiny bottle at the bottom of my case and he pounced on it with delight."
+                ],
+                [
+                    "‘Perfume, eh? ’ he asked sarcastically. ‘You should have declared that. Perfume is not exempt from import duty. ’",
+                    "‘But it isn't perfume, ’ I said. ‘It's hair gel. ’ Then I added with a smile, ‘It's a strange mixture I make myself. ’",
+                    "As I expected, he did not believe me.",
+                    "‘Try it!’I said encouragingly."
+                ],
+                [
+                    "The Officer unscrewed the cap and put the bottle to his nostrils. He was greeted by an unpleasant smell which convinced him that I was telling the truth. A few minutes later, I was able to hurry away with precious chalk marks on my baggage."
+                ]
+            ]
+        }
+    ],
+    "nce4": [
+        {
+            "Lesson 1 Finding fossil man": [
+                [
+                    "We can read of things that happened 5,000 years ago in the Near East, where people first learned to write. But there are some parts of the world where even now people cannot write. The only way that they can preserve their history is to recount it as sagas -- legends handed down from one generation of story tellers to another. These legends are useful because they can tell us something about migrations of people who lived long ago, but none could write down what they did. Anthropologists wondered where the remote ancestors of the Polynesian peoples now living in the Pacific Islands came from. The sagas of these people explain that some of them came from Indonesia about 2,000 years ago."
+                ],
+                [
+                    "But the first people who were like ourselves lived so long ago that even their sagas, if they had any, are forgotten. So archaeologists have neither history nor legends to help them to find out where the first 'modern men' came from."
+                ],
+                [
+                    "Fortunately, however, ancient men made tools of stone, especially flint, because this is easier to shape than other kinds. They may also have used wood and skins, but these have rotted away. Stone does not decay, and so the tools of long ago have remained when even the bones of the men who made them have disappeared without trace.",
+                    "ROBIN PLACE Finding fossil man",
+                    "Polished axeheads found at Seamers Moor in Yorkshire"
+                ]
+            ],
+            "Lesson 2 Spare that spider": [
+                [
+                    "Why, you may wonder, should spiders be our friends? Because they destroy so many insects, and insects include some of the greatest enemies of the human race. Insects would make it impossible for us to live in the world; they would devour all our crops and kill our flocks and herds, if it were not for the protection we get from insect-eating animals. We owe a lot to the birds and beasts who eat insects but all of them put together kill only a fraction of the number destroyed by spiders. Moreover, unlike some of the other insect eaters, spiders never do the least harm to us or our belongings."
+                ],
+                [
+                    "Spiders are not insects, as many people think, nor even nearly related to them. One can tell the difference almost at a glance, for a spider always has eight legs and an insect never more than six."
+                ],
+                [
+                    "How many spiders are engaged in this work on our behalf? One authority on spiders made a census of the spiders in a grass field in the south of England, and he estimated that there were more than 2,250,000 in one acre; that is something like 6 million spiders of different kinds on a football pitch. Spiders are busy for at least half the year in killing insects. It is impossible to make more than the wildest guess at how many they kill, but they are hungry creatures, not content with only three meals a day. It has been estimated that the weight of all the insects destroyed by spiders in Britain in one year would be greater than the total weight of all the human beings in the country."
+                ],
+                [
+                    "T.H.GILLESPIE Spare that spider from The Listener",
+                    "   A spider destroys a grasshopper"
+                ]
+            ],
+            "Lesson 3 Matterhorn man": [
+                [
+                    "Modern alpinists try to climb mountains by a route which will give them good sport, and the more difficult it is, the more highly it is regarded. In the pioneering days, however, this was not the case at all. The early climbers were looking for the easiest way to the top, because the summit was the prize they sought, especially if it had never been attained before. It is true that during their explorations they often faced difficulties and dangers of the most perilous nature, equipped in a manner which would make a modern climber shudder at the thought, but they did not go out of their way to court such excitement. They had a single aim, a solitary goal -- the top!"
+                ],
+                [
+                    "It is hard for us to realize nowadays how difficult it was for the pioneers. Except for one or two places such as Zermatt and Chamonix, which had rapidly become popular, Alpine villages tended to be impoverished settlements cut off from civilization by the high mountains. Such inns as there were generally dirty and flea-ridden; the food simply local cheese accompanied by bread often twelve months old, all washed down with coarse wine. Often a valley boasted no inn at all, and climbers found shelter wherever they could -- sometimes with the local priest who was usually as poor as his parishioners, sometimes with shepherds or cheese-makers. Invariably the background was the same: dirt and poverty, and very uncomfortable. For men accustomed to eating seven-course dinners and sleeping between fine linen sheets at home, the change to the Alps must have been very hard indeed."
+                ],
+                [
+                    "WALTER UNSWORTH Matterhorn Man"
+                ],
+                [
+                    "Bergdorf,a mountain village in Switzerland"
+                ]
+            ],
+            "Lesson 4 Seeing hands": [
+                [
+                    "Several cases have been reported in Russia recently of people who can read and detect colours with their fingers, and even see through solid doors and walls. One case concerns an eleven-year-old schoolgirl, Vera Petrova, who has normal vision but who can also perceive things with different parts of her skin, and through solid walls. This ability was first noticed by her father. One day she came into his office and happened to put her hands on the door of a locked safe. Suddenly she asked her father why he kept so many old newspapers locked away there, and even described the way they were done up in bundles."
+                ],
+                [
+                    "Vera's curious talent was brought to the notice of a scientific research institute in the town of Ulyanovsk, near where she lives, and in April she was given a series of tests by a special commission of the Ministry of Health of the Russian Federal Republic. During these tests she was able to read a newspaper through an opaque screen and, stranger still, by moving her elbow over a child's game of Lotto she was able to describe the figures and colours printed on it; and, in another instance, wearing stockings and slippers, to make out with her foot the outlines and colours of a picture hidden under a carpet. Other experiments showed that her knees and shoulders had a similar sensitivity. During all these tests Vera was blindfold; and, indeed, except when blindfold she lacked the ability to perceive things with her skin. It was also found that although she could perceive things with her fingers this ability ceased the moment her hands were wet."
+                ],
+                [
+                    "ERIC DE MAUNY Seeing hands from The Listener"
+                ],
+                [
+                    "Another Russian girl,Rosa Kuleshova,reads blindfold."
+                ]
+            ],
+            "Lesson 5 Youth": [
+                [
+                    "People are always talking about 'the problem of youth'. If there is one -- which I take leave to doubt -- then it is older people who create it, not the young themselves. Let us get down to fundamentals and agree that the young are after all human beings -- people just like their elders. There is only one difference between an old man and a young one: the young man has a glorious future before him and the old one has a splendid future behind him: and maybe that is where the rub is."
+                ],
+                [
+                    "When I was a teenager, I felt that I was just young and uncertain -- that I was a new boy in a huge school, and I would have been very pleased to be regarded as something so interesting as a problem. For one thing, being a problem gives you a certain identity, and that is one of the things the young are busily engaged in seeking."
+                ],
+                [
+                    "I find young people exciting. They have an air of freedom, and they have not a dreary commitment to mean ambitions or love of comfort. They are not anxious social climbers, and they have no devotion to material things. All this seems to me to link them with life, and the origins of things. It's as if they were, in some sense, cosmic beings in violent and lovely contrast with us suburban creatures. All that is in my mind when I meet a young person. He may be conceited, ill-mannered, presumptuous or fatuous, but I do not turn for protection to dreary cliches about respect for elders -- as if mere age were a reason for respect. I accept that we are equals, and I will argue with him, as an equal, if I think he is wrong."
+                ],
+                [
+                    "FIELDEN HUGHES from Out of the Air, The Listener"
+                ],
+                [
+                    "A group of young people"
+                ]
+            ],
+            "Lesson 6 The sporting spirit": [
+                [
+                    "I am always amazed when I hear people saying that sport creates goodwill between the nations, and that if only the common peoples of the world could meet one another at football or cricket, they would have no inclination to meet on the battlefield. Even if one didn't know from concrete examples (the 1936 Olympic Games, for instance) that international sporting contests lead to orgies of hatred, one could deduce it from general principles."
+                ],
+                [
+                    "Nearly all the sports practised nowadays are competitive. You play to win, and the game has little meaning unless you do your utmost to win. On the village green, where you pick up sides and no feeling of local patriotism is involved, it is possible to play simply for the fun and exercise: but as soon as the question of prestige arises, as soon as you feel that you and some larger unit will be disgraced if you lose, the most savage combative instincts are aroused. Anyone who has played even in a school football match knows this. At the international level, sport is frankly mimic warfare. But the significant thing is not the behaviour of the players but the attitude of the spectators: and, behind the spectators, of the nations who work themselves into furies over these absurd contests, and seriously believe -- at any rate for short periods -- that running, jumping and kicking a ball are tests of national virtue."
+                ],
+                [
+                    "GEORGE ORWELL The sporting spirit",
+                    "East Midlands \"PIX\""
+                ]
+            ],
+            "Lesson 7 Bats": [
+                [
+                    "Not all sounds made by animals serve as language, and we have only to turn to that extraordinary discovery of echo-location in bats to see a case in which the voice plays a strictly utilitarian role."
+                ],
+                [
+                    "To get a full appreciation of what this means we must turn first to some recent human inventions. Everyone knows that if he shouts in the vicinity of a wall or a mountainside, an echo will come back. The further off this solid obstruction, the longer time will elapse for the return of the echo. A sound made by tapping on the hull of a ship will be reflected from the sea bottom, and by measuring the time interval between the taps and the receipt of the echoes, the depth of the sea at that point can be calculated. So was born the echo-sounding apparatus, now in general use in ships. Every solid object will reflect a sound, varying according to the size and nature of the object. A shoal of fish will do this. So it is a comparatively simple step from locating the sea bottom to locating a shoal of fish. With experience, and with improved apparatus, it is now possible not only to locate a shoal but to tell if it is herring, cod, or other well-known fish, by the pattern of its echo."
+                ],
+                [
+                    "It has been found that certain bats emit squeaks and by receiving the echoes, they can locate and steer clear of obstacles -- or locate flying insects on which they feed. This echo-location in bats is often compared with radar, the principle of which is similar."
+                ],
+                [
+                    "MAURICE BURTON Curiosities of animal life",
+                    " Echo-location in bats is often compared with radar."
+                ]
+            ],
+            "Lesson 8 Trading standards": [
+                [
+                    "Chickens slaughtered in the United States, claim officials in Brussels, are not fit to grace European tables. No, say the Americans: our fowl are fine, we simply clean them in a different way. These days, it is differences in national regulations, far more than tariffs, that put sand in the wheels of trade between rich countries. It is not just farmers who are complaining. An electric razor that meets the European Union's safety standards must be approved by American testers before it can be sold in the United States, and an American-made dialysis machine needs the EU's okay before it hits the market in Europe."
+                ],
+                [
+                    "As it happens, a razor that is safe in Europe is unlikely to electrocute Americans. So, ask businesses on both sides of the Atlantic, why have two lots of tests where one would do? Politicians agree, in principle, so America and the EU have been trying to reach a deal which would eliminate the need to double-test many products. They hope to finish in time for a trade summit between America and the EU on May 28th. Although negotiators are optimistic, the details are complex enough that they may be hard-pressed to get a deal at all. Why? One difficulty is to construct the agreements. The Americans would happily reach one accord on standards for medical devices and then hammer out different pacts covering, say, electronic goods and drug manufacturing. The EU -- following fine continental traditions -- wants agreement on general principles, which could be applied to many types of products and perhaps extended to other countries."
+                ],
+                [
+                    "From: The Economist, May 24th, 1997",
+                    "An electric razor that meets the European Union's safety standards must be approved by American testers before it can be sold in the United States."
+                ]
+            ],
+            "Lesson 9 Royal espionage": [
+                [
+                    "Alfred the Great acted as his own spy, visiting Danish camps disguised as a minstrel. In those days wandering minstrels were welcome everywhere. They were not fighting men, and their harp was their passport. Alfred had learned many of their ballads in his youth, and could vary his programme with acrobatic tricks and simple conjuring."
+                ],
+                [
+                    "While Alfred's little army slowly began to gather at Athelney, the king himself set out to penetrate the camp of Guthrum, the commander of the Danish invaders. These had settled down for the winter at Chippenham: thither Alfred went. He noticed at once that discipline was slack: the Danes had the self-confidence of conquerors, and their security precautions were casual. They lived well, on the proceeds of raids on neighbouring regions. There they collected women as well as food and drink, and a life of ease had made them soft. Alfred stayed in the camp a week before he returned to Athelney. The force there assembled was trivial compared with the Danish horde. But Alfred had deduced that the Danes were no longer fit for prolonged battle: and that their commissariat had no organization, but depended on irregular raids."
+                ],
+                [
+                    "So, faced with the Danish advance, Alfred did not risk open battle but harried the enemy. He was constantly on the move, drawing the Danes after him. His patrols halted the raiding parties: hunger assailed the Danish army. Now Alfred began a long series of skirmishes -- and within a month the Danes had surrendered. The episode could reasonably serve as a unique epic of royal espionage!"
+                ],
+                [
+                    "BERNARD NEWMAN Spies in Britain",
+                    " Alfred,disguised as a harpist, in the camp of the Danes"
+                ]
+            ]
+        }
+    ]
+}
