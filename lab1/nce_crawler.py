@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import json
 
 
+# code to check text contains chinese or not
 def is_contains_chinese(strs):
     for _char in strs:
         if '\u4e00' <= _char <= '\u9fa5':
@@ -10,17 +11,21 @@ def is_contains_chinese(strs):
     return False
 
 
+# code to sent url
 def send_request(request_url):
     print("processing url:", request_url)
     response = requests.get(url)
     return response
 
 
+# code to deal with respond
 def get_nce_corpus(response):
     result_text = []
     response_content = response.content
     soup = BeautifulSoup(response_content, 'html5lib')
+    # sometimes the wanted text in webpages lies in table tags
     tables_tmp = soup.find_all(class_='dialogTbl')
+    # sometimes the wanted text stores in paragraph tag in content class
     if len(tables_tmp) == 0:
         divs = soup.find_all(class_="content")
         for p in divs[0].findAll('p'):
@@ -32,6 +37,7 @@ def get_nce_corpus(response):
                 result_text.append(text)
 
     else:
+        # deal with the text lies in table tags
         tables = tables_tmp[0]
         for tr in tables.findAll('tr'):
             for td in tr.findAll('td'):
@@ -40,6 +46,7 @@ def get_nce_corpus(response):
                 if co and not str.isdigit(co):
                     result_text.append(co)
 
+    # deal with title
     titles = soup.find_all(class_="title")
     text_title = titles[0].h1.getText()
     text_title = [i for i in text_title.split() if not is_contains_chinese(i)]
@@ -71,6 +78,7 @@ if __name__ == "__main__":
 
     urls_dic = {"nce1": urls_nce1, "nce2": urls_nce2, "nce3": urls_nce3, "nce4": urls_nce4}
 
+    # build corpus
     corpus = {}
     for level, urls in urls_dic.items():
         corpus[level] = list()
@@ -86,5 +94,6 @@ if __name__ == "__main__":
                 print("Connection Error, response code: ", r.status_code)
         corpus[level].append(sub_dic)
 
+    # dump python dictionary object to json
     with open('corpus.json', 'w') as fp:
         json.dump(corpus, fp, indent=4, ensure_ascii=False)
