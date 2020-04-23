@@ -1,0 +1,8 @@
+<parameters>
+<index>/tmp/yonwu_index</index>
+<query>
+<number>sometopic</number>
+<text>#combine(12 34)</text>
+</query>
+<trecFormat>true</trecFormat>
+</parameters>
