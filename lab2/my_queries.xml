@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <parameters>
 <index>/tmp/yonwu_index</index>
 <query>
-<number>sometopic</number>
-<text>&gt;</text>
+<number>209</number>
+<text>#combine(peru ecuador)</text>
 </query>
 <trecFormat>true</trecFormat>
-</parameters>

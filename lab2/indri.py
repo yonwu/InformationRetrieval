@@ -38,11 +38,11 @@ if __name__ == "__main__":
 
     parser.add_argument('-corpus', required=False, type=str, help='create indexing')
 
-    parser.add_argument('-topic', required=False, type=str, help='create indexing')
+    parser.add_argument('-topic', required=False, type=str, help='modify topic')
 
-    parser.add_argument('-query', required=False, type=str, help='queries ')
+    parser.add_argument('-query', required=False, type=str, help='modify query command ')
 
-    parser.add_argument('-eval', action='store_true')
+    parser.add_argument('-eval', action='store_true', help='carry evaluation')
 
     args = parser.parse_args()
 

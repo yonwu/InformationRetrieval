@@ -1,0 +1,11 @@
+iprec_at_recall_0.00  	211	1.0000
+iprec_at_recall_0.10  	211	1.0000
+iprec_at_recall_0.20  	211	1.0000
+iprec_at_recall_0.30  	211	1.0000
+iprec_at_recall_0.40  	211	1.0000
+iprec_at_recall_0.50  	211	1.0000
+iprec_at_recall_0.60  	211	1.0000
+iprec_at_recall_0.70  	211	1.0000
+iprec_at_recall_0.80  	211	1.0000
+iprec_at_recall_0.90  	211	1.0000
+iprec_at_recall_1.00  	211	1.0000

@@ -2,7 +2,7 @@
 <index>/tmp/yonwu_index</index>
 <memory>2G</memory>
 <corpus>
-<path>anything</path>
+<path>/tmp/yonwu_ir/GH95</path>
 <class>trectext</class>
 </corpus>
 <stemmer><name>krovetz</name></stemmer>
