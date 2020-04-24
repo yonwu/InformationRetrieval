@@ -1,0 +1,14 @@
+[
+  {
+    "callbackUrl": "????",
+    "keepAliveIntervalSeconds": "????",
+    "serviceName": "rapp2",
+    "timeSinceLastActivitySeconds": "????"
+  },
+  {
+    "callbackUrl": "????",
+    "keepAliveIntervalSeconds": "????",
+    "serviceName": "rapp1",
+    "timeSinceLastActivitySeconds": "????"
+  }
+]

@@ -1,8 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <parameters>
 <index>/tmp/yonwu_index</index>
 <query>
 <number>sometopic</number>
-<text>#combine(12 34)</text>
+<text>&gt;</text>
 </query>
 <trecFormat>true</trecFormat>
 </parameters>

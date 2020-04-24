@@ -1,0 +1,14 @@
+[
+  {
+    "serviceName": "rapp1",
+    "keepAliveIntervalSeconds": 2000,
+    "timeSinceLastActivitySeconds": 0,
+    "callbackUrl": "http://callback-receiver:8090/callbacks/1"
+  },
+  {
+    "serviceName": "rapp2",
+    "keepAliveIntervalSeconds": 300,
+    "timeSinceLastActivitySeconds": 0,
+    "callbackUrl": "ftp://localhost:80/test"
+  }
+]
