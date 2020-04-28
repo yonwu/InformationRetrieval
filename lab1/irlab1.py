@@ -163,9 +163,9 @@ def get_related_tfid(corpus, vocabulary):
     X = vectorizer.fit_transform(corpus)
     df = pd.DataFrame(X.toarray(), columns=vectorizer.get_feature_names())
 
-    df.index = doc_ids
+    df.index = all_ids
     df.index.name = 'Document_ID'
-    return df.filter(vocabulary)
+    return df.filter(vocabulary).loc[doc_ids, :]
 
 
 # Testing and printout
@@ -210,8 +210,8 @@ if __name__ == "__main__":
     print("multi intersection with query \'really\' And \'school\' And \'kids\':", doc_ids)
 
     print("\n")
-
-    corpus = find_corpus("movies.txt", doc_ids)
+    all_ids = list(range(1, 1001))
+    corpus = find_corpus("movies.txt", all_ids)
 
     vocabulary = ["school", "kids", "really"]
 
