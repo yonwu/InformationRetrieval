@@ -1,6 +1,7 @@
 from itertools import islice
 import math
 import linecache
+from collections import Counter
 from sklearn.feature_extraction.text import TfidfVectorizer
 import pandas as pd
 
@@ -153,19 +154,39 @@ def find_corpus(file, line_numbers):
     corpus = []
     for line_number in line_numbers:
         doc = linecache.getline(file, line_number).strip()
-        corpus.append(doc.lower())
+        corpus.append((doc.lower(), line_number))
     return corpus
 
 
-# Calculate tfid of each item in different documents
-def get_related_tfid(corpus, vocabulary):
-    vectorizer = TfidfVectorizer()
-    X = vectorizer.fit_transform(corpus)
-    df = pd.DataFrame(X.toarray(), columns=vectorizer.get_feature_names())
+# calculate idft for item
+def calculate_idft(item):
+    dft = len(movie_invert_index_lower[item])
+    N = 1000
+    return math.log(N / dft, 10)
 
-    df.index = all_ids
-    df.index.name = 'Document_ID'
-    return df.filter(vocabulary).loc[doc_ids, :]
+
+# caculate item frequency in a doc
+def calculate_tf(item, corpus):
+    cnt = Counter(corpus[0].split(' '))
+    return cnt[item]
+
+
+# calculate tfidf
+def calculate_tfidf(item, corpus):
+    tf = calculate_tf(item, corpus)
+    idft = calculate_idft(item)
+    return tf * idft
+
+
+# Calculate tfid of each item in different documents
+# def get_related_tfid(corpus, vocabulary):
+#     vectorizer = TfidfVectorizer()
+#     X = vectorizer.fit_transform(corpus)
+#     df = pd.DataFrame(X.toarray(), columns=vectorizer.get_feature_names())
+#
+#     df.index = all_ids
+#     df.index.name = 'Document_ID'
+#     return df.filter(vocabulary).loc[doc_ids, :]
 
 
 # Testing and printout
@@ -210,11 +231,16 @@ if __name__ == "__main__":
     print("multi intersection with query \'really\' And \'school\' And \'kids\':", doc_ids)
 
     print("\n")
-    all_ids = list(range(1, 1001))
-    corpus = find_corpus("movies.txt", all_ids)
+    # all_ids = list(range(1, 1001))
+    corpus = find_corpus("movies.txt", doc_ids)
 
     vocabulary = ["school", "kids", "really"]
 
-    tfid_result = get_related_tfid(corpus, vocabulary)
+    tfid_result = []
+    for item in vocabulary:
+        for doc in corpus:
+            tfidf = calculate_tfidf(item, doc)
+            tfid_result.append((item, doc[1], tfidf))
 
-    print(tfid_result)
+    pd_result = pd.DataFrame(tfid_result, columns=['Term', 'Doc_id', 'TFIDF'])
+    print(pd_result)
