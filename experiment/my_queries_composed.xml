@@ -1,0 +1,204 @@
+<parameters>
+    <index>/home/m19/yongchao/IR_dev/InformationRetrieval/lab3/index_composed/</index>
+    <query>
+        <number>77</number>
+        <text>#combin( Symtom av sepsis s&#229;som feber och p&#229;verkan p&#229; blodtrycket )</text>
+    </query>
+    <query>
+        <number>76</number>
+        <text>#combin( Behandling av KOLrecidiv )</text>
+    </query>
+    <query>
+        <number>75</number>
+        <text>#combin( Diagnostik av gasteroenterit vid obehag fr&#229;n buken )</text>
+    </query>
+    <query>
+        <number>73</number>
+        <text>#combin( Appendicit som diagnos vid buksm&#228;rta )</text>
+    </query>
+    <query>
+        <number>69</number>
+        <text>#combin( Differentialdiagnoser vid symtomet br&#246;stsm&#228;rta )</text>
+    </query>
+    <query>
+        <number>68</number>
+        <text>#combin( Symtom och behandling vid DVT )</text>
+    </query>
+    <query>
+        <number>67</number>
+        <text>#combin( Steroider vid akut astma )</text>
+    </query>
+    <query>
+        <number>66</number>
+        <text>#combin( Behandling av allergisk anafylaxi )</text>
+    </query>
+    <query>
+        <number>65</number>
+        <text>#combin( Antihistaminbehandling vid pollenallergi )</text>
+    </query>
+    <query>
+        <number>63</number>
+        <text>#combin( Biopsi vid misst&#228;nkt mags&#228;ckscancer )</text>
+    </query>
+    <query>
+        <number>62</number>
+        <text>#combin( Sm&#228;rtbehandling med opioider )</text>
+    </query>
+    <query>
+        <number>58</number>
+        <text>#combin( Leverp&#229;verkan av kombinationen paracetamol och alkohol )</text>
+    </query>
+    <query>
+        <number>55</number>
+        <text>#combin( Hodgkins och nonhodgkins lymfom )</text>
+    </query>
+    <query>
+        <number>54</number>
+        <text>#combin( Degeneration av gula fl&#228;cken TITLE )</text>
+    </query>
+    <query>
+        <number>53</number>
+        <text>#combin( Studier av protein vid alzheimers sjukdom )</text>
+    </query>
+    <query>
+        <number>51</number>
+        <text>#combin( Anemi och cancer TITLE )</text>
+    </query>
+    <query>
+        <number>50</number>
+        <text>#combin( NSAID och magens slemhinna vid ulcus )</text>
+    </query>
+    <query>
+        <number>49</number>
+        <text>#combin( Hereditet och risken f&#246;r hj&#228;rt och k&#228;rlsjukdomar hos kvinnor )</text>
+    </query>
+    <query>
+        <number>46</number>
+        <text>#combin( Vaccinationsprogrammet och allergier hos barn )</text>
+    </query>
+    <query>
+        <number>44</number>
+        <text>#combin( Kvinnors symtom vid uvi )</text>
+    </query>
+    <query>
+        <number>43</number>
+        <text>#combin( Kvinnors behandling vid uvi )</text>
+    </query>
+    <query>
+        <number>42</number>
+        <text>#combin( Antiviral behandling vid herpes simplex samt herpes zoster )</text>
+    </query>
+    <query>
+        <number>41</number>
+        <text>#combin( Erytropoietinbehandling vid anemi i samband med cancer )</text>
+    </query>
+    <query>
+        <number>39</number>
+        <text>#combin( Medicinsk behandling vid alzheimers sjukdom )</text>
+    </query>
+    <query>
+        <number>38</number>
+        <text>#combin( Viagra och h&#246;gt blodtryck )</text>
+    </query>
+    <query>
+        <number>37</number>
+        <text>#combin( Allvarliga biverkningar vid nyttjande av naturl&#228;kemedel )</text>
+    </query>
+    <query>
+        <number>36</number>
+        <text>#combin( Effekter och interaktioner vid anv&#228;ndning av waran )</text>
+    </query>
+    <query>
+        <number>32</number>
+        <text>#combin( Behandling med SSRIpreparat vid depression hos barn )</text>
+    </query>
+    <query>
+        <number>31</number>
+        <text>#combin( Behandling med SSRIpreparat vid depression hos gravida )</text>
+    </query>
+    <query>
+        <number>28</number>
+        <text>#combin( Behandling med bensodiazepiner )</text>
+    </query>
+    <query>
+        <number>27</number>
+        <text>#combin( Oxascand som &#229;ngestd&#228;mpande vid alkoholavgiftning )</text>
+    </query>
+    <query>
+        <number>26</number>
+        <text>#combin( St&#228;lla diagnosen akut koronart syndrom )</text>
+    </query>
+    <query>
+        <number>25</number>
+        <text>#combin( Symtom och behandling efter TIA )</text>
+    </query>
+    <query>
+        <number>24</number>
+        <text>#combin( Risker vid anv&#228;ndning av neuroleptika )</text>
+    </query>
+    <query>
+        <number>23</number>
+        <text>#combin( Risker vid anv&#228;ndning av neuroleptika )</text>
+    </query>
+    <query>
+        <number>21</number>
+        <text>#combin( Antibiotika som b&#246;r undvikas f&#246;re och under graviditet )</text>
+    </query>
+    <query>
+        <number>20</number>
+        <text>#combin( Licenspreparat vid hudsjukdom )</text>
+    </query>
+    <query>
+        <number>19</number>
+        <text>#combin( Johannes&#246;rt och l&#228;kemedelsanv&#228;ndning l&#228;kemedelskonsumtion )</text>
+    </query>
+    <query>
+        <number>18</number>
+        <text>#combin( Hormonbehandling under klimakteriet och risken f&#246;r cervixcancer )</text>
+    </query>
+    <query>
+        <number>16</number>
+        <text>#combin( Hormonbehandling under klimakteriet och risken f&#246;r br&#246;stcancer )</text>
+    </query>
+    <query>
+        <number>13</number>
+        <text>#combin( Concerta vid behandling av ADHD )</text>
+    </query>
+    <query>
+        <number>12</number>
+        <text>#combin( Xenical och m&#228;ngden fett man tar upp fr&#229;n kost )</text>
+    </query>
+    <query>
+        <number>11</number>
+        <text>#combin( Biverkningar hos reductil och xenical )</text>
+    </query>
+    <query>
+        <number>10</number>
+        <text>#combin( Att behandla med xenical vid samtidig diabetes ocheller h&#246;gt blodtryck )</text>
+    </query>
+    <query>
+        <number>9</number>
+        <text>#combin( Testosteron fetma och blodtryck hos m&#228;n )</text>
+    </query>
+    <query>
+        <number>8</number>
+        <text>#combin( Biverkningar vid medicinsk behandling av fetma )</text>
+    </query>
+    <query>
+        <number>7</number>
+        <text>#combin( Biverkningar vid cellgiftsbehandling av cancer )</text>
+    </query>
+    <query>
+        <number>4</number>
+        <text>#combin( Blodpropp vid anv&#228;ndning av &#246;strogen och gestagen)</text>
+    </query>
+    <query>
+        <number>2</number>
+        <text>#combin( F&#246;rsiktighet vid behandling med erytromycin under graviditet )</text>
+    </query>
+    <query>
+        <number>1</number>
+        <text>#combin( Fettsn&#229;l kosts inverkan p&#229; LDL och HDL )</text>
+    </query>
+    <trecFormat>true</trecFormat>
+</parameters>

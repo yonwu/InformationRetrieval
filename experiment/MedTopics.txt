@@ -1,0 +1,479 @@
+<TOP>
+<TOPNO>1</TOPNO>
+<TITLE> Fettsnål kosts inverkan på LDL och HDL </TITLE>
+<DESC> Hur påverkar en fettsnål, energifattig kost koncentrationerna av HDL och LDL? </DESC>
+<NARR> Relevanta dokument i ska innehålla information om lipoproteinerna HDL och LDL / lätta lipoproteiner  och deras funktion, samt beskriva hur en kostförändring påverkar koncentrationen av dessa i blodet. Beskrivning av fettsnål kost är relevant. </NARR>
+</TOP>
+
+<TOP>
+<TOPNO>2</TOPNO>
+<TITLE> Försiktighet vid behandling med erytromycin under graviditet </TITLE>
+<DESC> Vilka komplikationer kan vara gällande vid behandling av infektion hos gravida med erytromycin? </DESC> 
+<NARR> Relevanta dokument ska innehålla information om erytromycin/ Ery-Max/ Erymax och dess verkan samt indikationer. Information om biverkningar med fokus på graviditet/havandeskap är relevant. </NARR>
+</TOP>
+
+<TOP>
+<TOPNO>4</TOPNO>
+<TITLE> Blodpropp vid användning av östrogen och gestagen</TITLE>
+<DESC> Vilka risker för utvecklandet av blodpropp finns vid användande av kombinationspreparat som innehåller östrogen och gestagen? </DESC>
+<NARR> Relevanta dokument ska innehålla information om kombinationspreparat som innehåller östrogen och gestagen. Preparatens verkan ska beskrivas. Även risker, framförallt för blodpropp/trombos är relevant. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>5</TOPNO>
+<TITLE> Reductil vid behandling av fetma </TITLE>
+<DESC> När är det indicerat att börja behandla fetma med preparatet reductil? </DESC>
+<NARR> Relevanta dokument ska innehålla information om reductil och dess verkan samt biverkningar och när det är indicerat att sätta in behandling för fetma/övervikt. Beskrivning av behandlingsstrategin är relevant. </NARR>
+</TOP>
+<TOP>
+<TOPNO>7</TOPNO>
+<TITLE> Biverkningar vid cellgiftsbehandling av cancer </TITLE>
+<DESC> Vilka biverkningar kan man räkna med vid behandling av cancer med cellgifter? </DESC>
+<NARR> Relevanta dokument innehåller information om cellgifter/cytostatika, dess biverkningar och vilka typer av cancer som bör behandlas med dessa. Beskrivning av strategin vid cellgiftsbehandling är relevant. </NARR>
+</TOP>
+
+<TOP>
+<TOPNO>8</TOPNO>
+<TITLE> Biverkningar vid medicinsk behandling av fetma </TITLE>
+<DESC> Vilka biverkningar kan uppstå vid medicinsk behandling av sjuklig fetma? </DESC>
+<NARR> Relevanta dokument ska innehålla information om de läkemedel som står till buds för behandling av sjuklig fetma/övervikt. Beskrivning av biverkningar som är associerade med dessa är relevant. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>9</TOPNO>
+<TITLE> Testosteron, fetma och blodtryck hos män </TITLE>
+<DESC> Hur påverkar testosteronnivån mäns fetma och blodtryck? </DESC>
+<NARR> Relevanta dokument ska innehålla information om testosteronets roll i utvecklandet av fetma/övervikt hos män. Dokument som innehåller information om huruvida fetma påverkar testosteronproduktionen hos män eller som beskriver testosteronets verkan på blodtrycket hos män är relevanta. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>10</TOPNO>
+<TITLE> Att behandla med xenical vid samtidig diabetes och/eller högt blodtryck </TITLE>
+<DESC> Hur man går till väga när man behandlar fetma med xenical vid samtidigt högt blodtryck och/eller diabetes typ II. </DESC>
+<NARR> Relevanta dokument ska innehålla information om viktminskningspreparatet xenical samt dess indikation och eventuella biverkningar. Information om försiktighet vid fetmabehandling/behandling av övervikt av patienter som lider av diabetes/ sockersjuka typ II och/eller högt blodtryck är relevant. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>11</TOPNO>
+<TITLE> Biverkningar hos reductil och xenical </TITLE>
+<DESC> Vilka biverkningar har de två viktminskningspreparaten reductil och xenical? </DESC>
+<NARR> Relevanta dokument ska innehålla information om xenical och reductil, samt de biverkningar som kan uppstå vid behandling av fetma/övervikt med dessa viktreduceringspreparat. </NARR>
+</TOP>
+
+<TOP>
+<TOPNO>12</TOPNO>
+<TITLE> Xenical och mängden fett man tar upp från kost </TITLE>
+<DESC> Verkningsmekansim för xenicals inverkan på fettupptag från kosten. </DESC>
+<NARR> Relevanta dokument ska innehålla information om läkemedlet xenical, om dess indikation, terapeutisk strategi, samt biverkningar. Information om hur fettupptag från kost påverkas är relevant. </NARR>
+</TOP>
+
+<TOP>
+<TOPNO>13</TOPNO>
+<TITLE> Concerta vid behandling av ADHD </TITLE>
+<DESC> På vilka indikationer används läkemedlet concerta vid ADHD-behandling. </DESC>
+<NARR> Relevanta dokument ska innehålla information om concerta och dess roll i behandlingen av ADHD/uppmärksamhetsstörning med hyperaktivitet. Information om regler för förskrivning är relevant. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>16</TOPNO>
+<TITLE> Hormonbehandling under klimakteriet och risken för bröstcancer </TITLE>
+<DESC> Ökar eller minskar riskerna för bröstcancer då man undergår hormonbehandling under klimakteriet? </DESC>
+<NARR> Relevanta dokument ska innehålla information om hormonbehandling under klimakteriet/menopaus och behandlingens risker. De ska beskriva relationen mellan behandling med hormoner och bröstcancer. </NARR>
+</TOP>
+
+<TOP>
+<TOPNO>18</TOPNO>
+<TITLE> Hormonbehandling under klimakteriet och risken för cervixcancer </TITLE>
+<DESC> Ökar eller minskar riskerna för cervixcancer då man undergår hormonbehandling under klimakteriet? </DESC>
+<NARR> Relevanta dokument ska innehålla information om hormonbehandling under klimakteriet/menopaus och behandlingens risker. De ska beskriva relationen mellan behandling med hormoner och cervixcancer/livmoderhalscancer. </NARR>
+</TOP>
+
+<TOP>
+<TOPNO>19</TOPNO>
+<TITLE> Johannesört och läkemedelsanvändning/ läkemedelskonsumtion </TITLE>
+<DESC> Hur påverkas läkemedel av samtidigt intag av johannesört? </DESC>
+<NARR> Dokumenten ska innehålla information om johannesört/ hypericum och dess eventuella interaktion/korsbiverkan med läkemedel, godkända av läkemedelsverket.  </NARR>
+</TOP>
+
+<TOP>
+<TOPNO>20</TOPNO>
+<TITLE> Licenspreparat vid hudsjukdom </TITLE>
+<DESC> Vilket eller vilka licenspreparat finns att tillgå vid hudsjukdom, exempelvis acne </DESC>
+<NARR> Relevanta dokument ska innehålla information om licenspreparat inom specialiteten hudsjukdomar/dermatos. Information om sjukdomar som kräver behandling med dylika preparat, exempelvis acne/akne/finnar, är relevant. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>21</TOPNO>
+<TITLE> Antibiotika som bör undvikas före och under graviditet </TITLE>
+<DESC> Vilka typer av antibiotika kan ge möjlig fosterskada eller skada på den gravida kvinnan och bör undvikas före och under graviditet/ havandeskap? </DESC>
+<NARR> Relevanta dokument ska innehålla information om olika sorters antibiotika som kan orsaka fosterskador. Beskrivning av vilka typer av fosterskador eller skadeverkningar på den gravida kvinnan orsakade av antibiotika som kan förekomma är relevant. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>23</TOPNO>
+<TITLE> Risker vid användning av neuroleptika </TITLE>
+<DESC>Vilka risker är förknippade med användandet av neuroleptika? </DESC>
+<NARR> Relevanta dokument skall innehålla generell information gällande neuroleptika/antipsykosmedel, dess indikationer, biverkningar och behandlingsalternativ. Information om de olika sjukdomstillstånd där neuroleptika används för behandling är relevant. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>24</TOPNO>
+</TITLE> Behandling vid akut njursvikt </TITLE>
+<DESC> Hur behandlar man en patient med tecken på akut njursvikt? </DESC>
+<NARR> Relevanta dokument ska innehålla beskrivning av njursvikt och dess symtom samt mekanismen bakom uppkomsten, renala, post- och prerenala . Beskrivning av behandlingsmetoder, såväl medicinska som kirurgiska, är relevant. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>25</TOPNO>
+<TITLE> Symtom och behandling efter TIA </TITLE>
+<DESC> Vilka symtom och vilken efterföljande behandling får man vid TIA? </DESC>
+<NARR> Relevanta artiklar ska innehålla information gällande TIA/ hjärnischemi/ cerebral ischemi, transitorisk ischemisk attack, och dess symtombild. Behandlingsalternativ och strategier är relevant. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>26</TOPNO>
+<TITLE> Ställa diagnosen akut koronart syndrom </TITLE>
+<DESC> Vilka kriterier och tekniker används för diagnosticering av akuta koronara syndrom? </DESC>
+<NARR> Relevanta dokument ska innehålla beskrivning av akut koronart syndrom/ koronarsjukdom/ kranskärlssjukdom samt de metoder som används för ställande av diagnos. Metoder som beskrivs kan vara såväl tekniska som laboratoriemässiga. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>27</TOPNO>
+<TITLE> Oxascand som ångestdämpande vid alkoholavgiftning </TITLE>
+<DESC> Hur används oxascand som ångestdämpande preparat vid alkoholavgiftning? </DESC>
+<NARR> Relevanta dokument ska innehålla information om preparatet oxascand som ångestdämpande preparat/anxiolytika, dess verkan, dosering och eventuell risk för tillvänjning vid alkoholavgiftning. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>28</TOPNO>
+<TITLE> Behandling med bensodiazepiner </TITLE>
+<DESC> Vilka indikationer föreligger vid behandling med bensodiazepiner. När ska preparatet användas? </DESC>
+<NARR> Relevanta dokument ska innehålla information om bensodiazepiner, när de ska sättas in som behandling, dosering och försiktigheter. Information om de tillstånd som behandlas med bensodiazepiner är relevant. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>31</TOPNO>
+<TITLE> Behandling med SSRI-preparat vid depression hos gravida </TITLE>
+<DESC> Vilka preparat av typen SSRI kan användas vid behandling av depression hos gravida? </DESC>
+<NARR> Relevanta dokument ska innehålla information om SSRI-preparat/ serotoninupptagshämmare, som är lämpliga för behandling av depression/nedstämdhet hos gravida/havande. Skillnader mellan doser och terapiintervall samt försiktigheter är relevant. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>32</TOPNO>
+<TITLE> Behandling med SSRI-preparat vid depression hos barn </TITLE>
+<DESC> Indikationer för behandling av depression hos barn med SSRI. </DESC>
+<NARR> Relevanta dokument ska innehålla information om huruvida preparat av typen SSRI, serotoninupptagshämmare, kan användas för att behandla depression/nedstamdhet hos barn. Bekrivning av godkända preparat och deras effekt är relevant. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>36</TOPNO>
+<TITLE> Effekter och interaktioner vid användning av waran </TITLE>
+<DESC> Vilka effekter och interaktioner med andra läkemedel kan man förvänta sig vid användning av waran? </DESC>
+<NARR> Relevanta dokument ska innehålla information om waran, indikation, effekter, biverkningar samt interaktion med andra läkemedel. Dokument som innehåller information om hur man tacklar uppkomna tillstånd är också relevanta. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>37</TOPNO>
+<TITLE> Allvarliga biverkningar vid nyttjande av naturläkemedel </TITLE>
+<DESC> Hur yttrar sig biverkningar av allvarlig karaktär vid nyttjande av naturläkemedel? </DESC>
+<NARR> Relevanta dokument innehåller information om vanliga typer av naturläkemedel, deras indikationer samt eventuella biverkningar av allvarlig karaktär. Dokument som beskriver hur man behandlar dessa biverkningar är också relevanta. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>38</TOPNO>
+<TITLE> Viagra och högt blodtryck </TITLE>
+<DESC> Går det att behandla en patient med viagra om patienten står på en reguljär behandling för högt blodtryck </DESC>
+<NARR> Relevanta dokument ska innehålla information om viagra / sidenafil, erektil dysfunktion somt om högt blodtryck / hypertoni och behandling för detta. Information om huruvida man kan kombinera viagra med behandling för högt blodtryck är relevant samt vilka former av interaktion som kan vara aktuella. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>39</TOPNO>
+<TITLE> Medicinsk behandling vid alzheimers sjukdom </TITLE>
+<DESC> Vilken medicinsk behandling rekommenderas för patient som drabbats av alzheimers sjukdom. </DESC>
+<NARR> Relevanta dokument ska innehålla information rörande alzheimers sjukdom/ åldersdemens, såsom klinisk bild, sjukdomsförlopp och prognos. Information om indikationer för och varianter av medicinsk behandling och deras effekter är relevanta. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>41</TOPNO>
+<TITLE> Erytropoietinbehandling vid anemi i samband med cancer </TITLE>
+<DESC> Hur används erytropoietin vid cancerrelaterad anemi? </DESC>
+<NARR> Relevanta dokument ska innehålla information om erytropoietin/erytropoetin/EPO och dess roll i behandling av anemi. Information om olika sorters cancer som kan ge anemi/blodbrist är relevant. Aven information om cancerterapier som kan leda till anemi är relevant. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>42</TOPNO>
+<TITLE> Antiviral behandling vid herpes simplex samt herpes zoster </TITLE>
+<DESC> Behandling i samband med herpes zoster, och herpes simplex i form av antiviral terapi/ virushämmare. </DESC>
+<NARR> Releventa dokument ska innehålla information om antivirala/virushämmande preparat, deras administrationssätt och preparattyper. Tid för behandling, som när och duration är relevant, liksom information om infektionerna herpes simplex och herpes zoster. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>43</TOPNO>
+<TITLE> Kvinnors behandling vid uvi </TITLE>
+<DESC> Vilken behandling erhåller kvinnor i samband med uvi? </DESC>
+<NARR> Relevanta dokument ska beskriva behandling vid uvi/ infektion i urinvägarna/ urinvägsinfektion som drabbar kvinnor. Behandlingstid, preparattyper samt information om olika agens är relevant. </NARR>
+</TOP>
+
+<TOP>
+<TOPNO>44</TOPNO>
+<TITLE> Kvinnors symtom vid uvi </TITLE>
+<DESC> Vilka symtom uppvisar kvinnor vid uvi? </DESC>
+<NARR> Relevanta dokument beskriver infektion i de övre urinvägarna /uvi/urinvägsinfektion hos kvinnor. Olika riskfaktorer och orsaker till uppkomst är relevant liksom symtom och diagnostiska kriterier. </NARR>
+</TOP>
+ 
+
+<TOP>
+<TOPNO>46</TOPNO>
+<TITLE> Vaccinationsprogrammet och allergier hos barn </TITLE>
+<DESC> Vad innebär vaccinationsprogrammet och finns det risk att barn utvecklar allergi i samband med detta? </DESC>
+<NARR> Relevanta dokument ska innehålla information om vaccinationsprogrammet med uppgifter om de vaccin som används och de sjukdomar som det vaccineras mot. Risker såsom utvecklandet av allergier samt andra komplikationer som kan drabba ett barn kopplat till vaccination är relevant. </NARR>
+</TOP>
+
+
+
+<TOP>
+<TOPNO>49</TOPNO>
+<TITLE> Hereditet och risken för hjärt- och kärlsjukdomar hos kvinnor </TITLE>
+<DESC> Vad innebär hereditet som riskfaktor för kvinnors utvecklande av hjärt- och kärlsjukdom. </DESC>
+<NARR> Relevanta dokument ska innehålla information om risken för hjärt- kärlsjukdom hos kvinnor samt vilken roll hereditet/ärftlighet spelar i utvecklandet av ovan nämnda sjukdomar. Information om vilka typer av hjärt-kärlsjukdomar på vilka hereditet har störst inverkan är relevant. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>50</TOPNO>
+<TITLE> NSAID och magens slemhinna vid ulcus </TITLE>
+<DESC> Hur påverkar preparat av typen NSAID magens slemhinna vid ulcus? </DESC>
+<NARR> Relevanta dokument ska innehålla information om uppkomsten av ulcerationer i magslemhinnan/magsår och vanliga symtom. Information om NSAID-preparat/ icke-steroida antiinflammatoriska medel och dess verkan på magslemhinnan är relevant. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>51</TOPNO>
+<TITLE> Anemi och cancer </TITLE>	
+<DESC> Varför kan en patient med cancer drabbas av anemi? </DESC>
+<NARR> Relevanta dokument ska innehålla information om vad anemi /blodbrist är, symtom, behandling och orsaker. Information om cancerrelaterad anemi dels utlöst av cancern och dels utlöst av cancerbehandlingen är relevant. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>53</TOPNO>
+<TITLE> Studier av protein vid alzheimers sjukdom </TITLE>
+<DESC> Beskriv metoder som används för att studera protein som specifikt uppträder vid alzheimers sjukdom. </DESC>
+<NARR> Relevanta dokument ska innehålla information om molekylärbiologiska metoder som används för att studera protein som uppträder specifikt vid alzheimers sjukdom/åldersdemens. Information om hur man histopatologiskt ställer diagnosen är relevant. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>54</TOPNO>
+<TITLE> Degeneration av gula fläcken </TITLE>	
+<DESC> Varför utsätts gula fläcken för degeneration, vad innebär det och vilken behandling är lämplig?</DESC>
+<NARR> Relevanta dokument ska innehålla information om gula fläcken/ macula lutea och om hur och varför den degenereras /makuladegeneration. Information om riskfaktorer, symtom, komplikationer och behandling är relevant. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>55</TOPNO>
+<TITLE> Hodgkins och non-hodgkins lymfom </TITLE>
+<DESC> Vilka likheter och skillnader finns det mellan de två typerna av lymfom: hodgkins / och non-hodkins? </DESC>
+<NARR> Relevanta dokument ska innehålla definitioner av hodgkins lymfom /malignt lymfogranulom och non-hodgkins lymfom, symtom samt rekommenderad behandling för de två tillstånden och prognos för båda. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>58</TOPNO>
+<TITLE> Leverpåverkan av kombinationen paracetamol och alkohol </TITLE>
+<DESC> Hur påverkas levern av samtidigt intag av paracetamol och alkohol? </DESC>
+<NARR> Relevanta dokument ska innehålla information om paracetamol och dess verkan på levern samt alkohol och dess verkan på levern. De ska även innehålla information om hur samtidig konsumtion av ovan nämnda substanser kan påverka leverns funktion. Beskrivning av skadliga mängder ska ingå. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>62</TOPNO>
+<TITLE> Smärtbehandling med opioider </TITLE>
+<DESC> Hur bedömer man att en smärta kräver behandling med opioider? </DESC>
+<NARR> Relevanta dokument ska informera om smärta, smärtlindring, opioidpreparat, administrationssätt, samt indikationer för insättande av opioider. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>63</TOPNO>
+<TITLE> Biopsi vid misstänkt magsäckscancer </TITLE>
+<DESC> Vilka tekniker och redskap används vid biopsi av magsäck vid cancermisstanke. </DESC>
+<NARR> Relevanta dokument ska behandla indikation för magsäckscancer/ ventrikelcancer/ magcancer/ magsäckstumörer/ ventrikeltumörer, när man ska ta en biopsi/ vävnadsprov, risker med att punktera magsäckens vägg. Information om hur man praktiskt går till väga vad gäller redskap, premedicinering samt förberedelse både för patient och för vårdpersonal är relevant. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>65</TOPNO>
+<TITLE> Antihistaminbehandling vid pollenallergi </TITLE>
+<DESC> Hur används antihistaminer vid behandling av pollenallergi? </DESC>
+<NARR> Relevanta dokument ska innehålla information om pollenallergi och dess behandling med fokus på antihistaminer. Beskrivning av indikation, administrationssätt samt försiktigheter vid användandet av antihistamin/ histaminblockerare/ histaminantagonister är relevant. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>66</TOPNO>
+<TITLE> Behandling av allergisk anafylaxi </TITLE>
+<DESC> Hur behandlas anafylaxi till följd av allergi? </DESC>
+<NARR> Relevanta dokument ska innehålla information om anafylaxi/ allergisk chock, med fokus på allergi samt dess behandling. Information om vilka preparat och behandlingsstrategier som används är relevant. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>67</TOPNO>
+<TITLE> Steroider vid akut astma </TITLE>
+<DESC> Hur används steroider vid behandling av akut astma? </DESC>
+<NARR> Relevanta dokument ska innehålla information om astma samt steroiders roll vid behandling, primärt vid akuta situationer. Beskrivning av indikation, administrationssätt samt försiktigheter vid användandet av steroider är relevant. </NARR>
+</TOP>
+
+<TOP>
+<TOPNO>68</TOPNO>
+<TITLE> Symtom och behandling vid DVT </TITLE>
+<DESC> Vilka symtom associeras med DVT, djup ventrombos, och hur ser behandlingen ut? </DESC>
+<NARR> Relevanta dokument ska innehålla information om DVT/djup ventrombos/ venblodpropp, vilka symtom som manifesteras samt hur behandlingen ser ut. Information om diagnostik och väsentliga preparat är relevant. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>69</TOPNO>
+<TITLE> Differentialdiagnoser vid symtomet bröstsmärta </TITLE>
+<DESC> Vad finns det för differentialdiagnoser hos patient med bröstsmärta som symtom? </DESC>
+<NARR> Relevanta dokument ska innehålla information om symtomet bröstsmärta samt viktiga differentialdiagnoser. Information om väsentlig diagnostik är relevant. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>73</TOPNO>
+<TITLE> Appendicit som diagnos vid buksmärta </TITLE>
+<DESC> Hur ställs diagnosen appendicit vid buksmärta? </DESC>
+<NARR> Relevanta dokument ska innehålla information om appendicit/ blindtarmsinflammation och om hur diagnosen ställs samt kliniska manifestationer såsom buksmärta. Information om väsentlig provtagning samt undersökningar är relevant. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>75</TOPNO>
+<TITLE> Diagnostik av gasteroenterit vid obehag från buken </TITLE>
+<DESC> Hur ställs diagnosen gasteroenterit vid obehag från buken? </DESC>
+<NARR> Relevanta dokument ska innehålla information om gasteroenterit/ gastroenterit/ mag-tarmkatarr/ magsjuka/ mag-tarminflammation och om hur diagnosen ställs samt kliniska manifestationer såsom obehag från buken. Orientering om vanliga agens samt väsentlig provtagning och undersökningar är relevant. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>76</TOPNO>
+<TITLE> Behandling av KOL-recidiv </TITLE>
+<DESC> Hur behandlas ett recidiv av KOL? </DESC>
+<NARR> Relevanta dokument ska innehålla information om KOL, kroniskt obstruktiv lungsjukdom, med fokus på recidiv/ återfall och hur behandlingen ser ut. Information om preparat och dess användande är relevant samt orientering kring orsaker till uppkomsten av KOL. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>77</TOPNO>
+<TITLE> Symtom av sepsis såsom feber och påverkan på blodtrycket </TITLE>
+<DESC> Vilka symtom ger sepsissjukdomen med fokus på feber och blodtrycksförändringar? </DESC>
+<NARR> Relevanta dokument ska innehålla information om sepsis/ blodförgiftning/ septikemi, dess påverkan på blodtryck och feber. Information om bakomliggande orsaker till utvecklandet av sepsis samt vanliga agens är relevant. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>82</TOPNO>
+<TITLE> Orsakerna bakom kramp och dess behandling </TITLE>
+<DESC> Vilka är orsakerna bakom uppkomsten av kramp och hur behandlas det? </DESC>
+<NARR> Relevanta dokument ska innehålla information om kramp/ spasm och bakomliggande orsaker. Information om behandling är relevant. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>83</TOPNO>
+<TITLE> Orsak till synkope och dess behandling </TITLE>
+<DESC> Vilka är de bakomliggande orsakerna till synkope och hur behandlar man det? </DESC>
+<NARR> Relevanta dokument ska innehålla information om synkope/ svimning, de bakomliggande orsakerna samt behandling. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>88</TOPNO>
+<TITLE> Blödning vid överdosering av waran </TITLE>
+<DESC> Beskriv den ökade risken för blödning vid överdosering av waran. </DESC>
+<NARR> Relevanta dokument ska innehålla information om hur waran påverkar risken för blödning/ hemorragi. Information om dosering av waran är relevant. </NARR>
+</TOP>	
+ 
+<TOP>
+<TOPNO>90</TOPNO>
+<TITLE> Behandling vid acidos hos patient med diabetes </TITLE>
+<DESC> Hur behandlas diabetiker med acidos? </DESC>
+<NARR> Relevanta dokument ska innehålla information diabetesinduceras acidos, ketoacidos. De ska innehålla information  om lämplig behandling av patient med acidos med fokus på diabetespatienter / sockersjuka.</NARR>
+</TOP>	
+
+
+<TOP>
+<TOPNO>92</TOPNO>
+<TITLE> Behandling av eksem med steroider </TITLE>
+<DESC> Hud: Hur går man till väga vid behandling av eksem med steroider? </DESC>
+<NARR> Relevanta dokumenten ska innehålla information om hur en hudläkare går till väga vid behandling av eksem med steroider. Information om olika typer av steroider som används vid behandling av eksem, samt när, var och hur man använder dem är relevant. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>93</TOPNO>
+<TITLE> Symtom och behandling vid HIV </TITLE>
+<DESC> Vilka symtom uppträder hos en person som drabbats av HIV och vilken behandling bör administreras? </DESC>
+<NARR> Relevanta dokument ska innehålla information om HIV/ human immunodeficiency virus/ humant immunbristvirus. Symtombild vid HIV, samt behandling för att hålla virusnivåer i blodet låga är relevant. Information om behandling av typiska symtom är relevant. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>94</TOPNO>
+<TITLE> Spridning av HIV </TITLE>
+<DESC> Vilka smittvägar och vilka risker finns för HIV-infektion? </DESC>
+<NARR> Relevanta dokumenten ska innehålla information om HIV/ human immunodeficiency virus/ humant immunbristvirus, om hur viruset smittar samt vilka smittvägar som finns. Information om viruset och dess egenskaper är relevant. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>96</TOPNO>
+<TITLE> Instabil angina pectoris </TITLE>
+<DESC> Vad innebär instabil angina pectoris? </DESC>
+<NARR> Relevanta dokumenten ska innehålla information om angina pectoris / kärlkramp och andra hjärtsjukdomar. Information om vad som särskiljer en instabil angina pectoris från andra hjärtrelaterade sjukdomar är relevant. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>97</TOPNO>
+<TITLE> Hypertension och andra symtom i samband med hjärtsvikt </TITLE>
+<DESC> Hur påverkar hypertension och andra symtom en patient med hjärtsvikt? </DESC>
+<NARR> Relevanta dokumenten ska innehålla information om hjärtsvikt/ hjärtinkompensation/ hjärtinsufficiens. Information om hypertension / hypertoni/ högt blodtryck och förhållandet mellan detta symtom och hjärtsvikt, samt andra symtom som kan vara aktuella i samband med hjärtsvikt är relevant. </NARR>
+</TOP>
+
+
+<TOP>
+<TOPNO>100</TOPNO>
+<TITLE> Rubbning av TSH-insöndring, påföljande hypertyreos och symtom </TITLE>
+<DESC> Vilka symtom uppvisar man vid hypertyreos orsakad av störd TSH -insöndring? </DESC>
+<NARR> Relevanta dokument ska innehålla information om hypertyreos/ sköldkörtelsjukdom. Hur TSH / tyreotropin påverkar thyreoidea/ tyreoidea/ sköldkörteln. Information om de symtom som en patient med sjukdomen uppvisar är relevant. </NARR>
+</TOP>
+ 
+ 
+ 
+ 
+
