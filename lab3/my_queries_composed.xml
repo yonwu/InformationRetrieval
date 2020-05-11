@@ -1,5 +1,5 @@
 <parameters>
-    <index>/home/m19/yongchao/IR_dev/InformationRetrieval/lab3/index_composed/</index>
+    <index>/home/m19/yongchao/IR/lab3/index/decomposed_index/</index>
     <query>
         <number>77</number>
         <text>#combine( Symtom av sepsis s&#229;som feber och p&#229;verkan p&#229; blodtrycket )</text>
