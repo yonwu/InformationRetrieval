@@ -46,7 +46,7 @@ def update_xml(file, topic_configs):
     for topic_config in topic_configs:
         query_element = create_query_tree(topic_config[0], topic_config[1])
         root.insert(1, query_element)
-    query_xml.write(file)
+    query_xml.write(file, encoding='utf-8', xml_declaration=True)
 
 
 if __name__ == "__main__":
