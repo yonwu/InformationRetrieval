@@ -1,5 +1,205 @@
 <?xml version='1.0' encoding='utf-8'?>
 <parameters>
     <index>/home/m19/yongchao/IR/lab3/index/decomposed_index/</index>
-    <query><number>77</number><text>#combine( Symtom av sepsis såsom feber och påverkan på blodtrycket )</text></query><query><number>76</number><text>#combine( Behandling av KOLrecidiv )</text></query><query><number>75</number><text>#combine( Diagnostik av gasteroenterit vid obehag från buken )</text></query><query><number>73</number><text>#combine( Appendicit som diagnos vid buksmärta )</text></query><query><number>69</number><text>#combine( Differentialdiagnoser vid symtomet bröstsmärta )</text></query><query><number>68</number><text>#combine( Symtom och behandling vid DVT )</text></query><query><number>67</number><text>#combine( Steroider vid akut astma )</text></query><query><number>66</number><text>#combine( Behandling av allergisk anafylaxi )</text></query><query><number>65</number><text>#combine( Antihistaminbehandling vid pollenallergi )</text></query><query><number>63</number><text>#combine( Biopsi vid misstänkt magsäckscancer )</text></query><query><number>62</number><text>#combine( Smärtbehandling med opioider )</text></query><query><number>58</number><text>#combine( Leverpåverkan av kombinationen paracetamol och alkohol )</text></query><query><number>55</number><text>#combine( Hodgkins och nonhodgkins lymfom )</text></query><query><number>54</number><text>#combine( Degeneration av gula fläcken TITLE	)</text></query><query><number>53</number><text>#combine( Studier av protein vid alzheimers sjukdom )</text></query><query><number>51</number><text>#combine( Anemi och cancer TITLE	)</text></query><query><number>50</number><text>#combine( NSAID och magens slemhinna vid ulcus )</text></query><query><number>49</number><text>#combine( Hereditet och risken för hjärt och kärlsjukdomar hos kvinnor )</text></query><query><number>46</number><text>#combine( Vaccinationsprogrammet och allergier hos barn )</text></query><query><number>44</number><text>#combine( Kvinnors symtom vid uvi )</text></query><query><number>43</number><text>#combine( Kvinnors behandling vid uvi )</text></query><query><number>42</number><text>#combine( Antiviral behandling vid herpes simplex samt herpes zoster )</text></query><query><number>41</number><text>#combine( Erytropoietinbehandling vid anemi i samband med cancer )</text></query><query><number>39</number><text>#combine( Medicinsk behandling vid alzheimers sjukdom )</text></query><query><number>38</number><text>#combine( Viagra och högt blodtryck )</text></query><query><number>37</number><text>#combine( Allvarliga biverkningar vid nyttjande av naturläkemedel )</text></query><query><number>36</number><text>#combine( Effekter och interaktioner vid användning av waran )</text></query><query><number>32</number><text>#combine( Behandling med SSRIpreparat vid depression hos barn )</text></query><query><number>31</number><text>#combine( Behandling med SSRIpreparat vid depression hos gravida )</text></query><query><number>28</number><text>#combine( Behandling med bensodiazepiner )</text></query><query><number>27</number><text>#combine( Oxascand som ångestdämpande vid alkoholavgiftning )</text></query><query><number>26</number><text>#combine( Ställa diagnosen akut koronart syndrom )</text></query><query><number>25</number><text>#combine( Symtom och behandling efter TIA )</text></query><query><number>24</number><text>#combine( Risker vid användning av neuroleptika )</text></query><query><number>23</number><text>#combine( Risker vid användning av neuroleptika )</text></query><query><number>21</number><text>#combine( Antibiotika som bör undvikas före och under graviditet )</text></query><query><number>20</number><text>#combine( Licenspreparat vid hudsjukdom )</text></query><query><number>19</number><text>#combine( Johannesört och läkemedelsanvändning läkemedelskonsumtion )</text></query><query><number>18</number><text>#combine( Hormonbehandling under klimakteriet och risken för cervixcancer )</text></query><query><number>16</number><text>#combine( Hormonbehandling under klimakteriet och risken för bröstcancer )</text></query><query><number>13</number><text>#combine( Concerta vid behandling av ADHD )</text></query><query><number>12</number><text>#combine( Xenical och mängden fett man tar upp från kost )</text></query><query><number>11</number><text>#combine( Biverkningar hos reductil och xenical )</text></query><query><number>10</number><text>#combine( Att behandla med xenical vid samtidig diabetes ocheller högt blodtryck )</text></query><query><number>9</number><text>#combine( Testosteron fetma och blodtryck hos män )</text></query><query><number>8</number><text>#combine( Biverkningar vid medicinsk behandling av fetma )</text></query><query><number>7</number><text>#combine( Biverkningar vid cellgiftsbehandling av cancer )</text></query><query><number>4</number><text>#combine( Blodpropp vid användning av östrogen och gestagen)</text></query><query><number>2</number><text>#combine( Försiktighet vid behandling med erytromycin under graviditet )</text></query><query><number>1</number><text>#combine( Fettsnål kosts inverkan på LDL och HDL )</text></query><trecFormat>true</trecFormat>
+    <query>
+        <number>77</number>
+        <text>#combine( Symtom av sepsis såsom feber och påverkan på blodtrycket )</text>
+    </query>
+    <query>
+        <number>76</number>
+        <text>#combine( Behandling av KOLrecidiv )</text>
+    </query>
+    <query>
+        <number>75</number>
+        <text>#combine( Diagnostik av gasteroenterit vid obehag från buken )</text>
+    </query>
+    <query>
+        <number>73</number>
+        <text>#combine( Appendicit som diagnos vid buksmärta )</text>
+    </query>
+    <query>
+        <number>69</number>
+        <text>#combine( Differentialdiagnoser vid symtomet bröstsmärta )</text>
+    </query>
+    <query>
+        <number>68</number>
+        <text>#combine( Symtom och behandling vid DVT )</text>
+    </query>
+    <query>
+        <number>67</number>
+        <text>#combine( Steroider vid akut astma )</text>
+    </query>
+    <query>
+        <number>66</number>
+        <text>#combine( Behandling av allergisk anafylaxi )</text>
+    </query>
+    <query>
+        <number>65</number>
+        <text>#combine( Antihistaminbehandling vid pollenallergi )</text>
+    </query>
+    <query>
+        <number>63</number>
+        <text>#combine( Biopsi vid misstänkt magsäckscancer )</text>
+    </query>
+    <query>
+        <number>62</number>
+        <text>#combine( Smärtbehandling med opioider )</text>
+    </query>
+    <query>
+        <number>58</number>
+        <text>#combine( Leverpåverkan av kombinationen paracetamol och alkohol )</text>
+    </query>
+    <query>
+        <number>55</number>
+        <text>#combine( Hodgkins och nonhodgkins lymfom )</text>
+    </query>
+    <query>
+        <number>54</number>
+        <text>#combine( Degeneration av gula fläcken TITLE )</text>
+    </query>
+    <query>
+        <number>53</number>
+        <text>#combine( Studier av protein vid alzheimers sjukdom )</text>
+    </query>
+    <query>
+        <number>51</number>
+        <text>#combine( Anemi och cancer TITLE )</text>
+    </query>
+    <query>
+        <number>50</number>
+        <text>#combine( NSAID och magens slemhinna vid ulcus )</text>
+    </query>
+    <query>
+        <number>49</number>
+        <text>#combine( Hereditet och risken för hjärt och kärlsjukdomar hos kvinnor )</text>
+    </query>
+    <query>
+        <number>46</number>
+        <text>#combine( Vaccinationsprogrammet och allergier hos barn )</text>
+    </query>
+    <query>
+        <number>44</number>
+        <text>#combine( Kvinnors symtom vid uvi )</text>
+    </query>
+    <query>
+        <number>43</number>
+        <text>#combine( Kvinnors behandling vid uvi )</text>
+    </query>
+    <query>
+        <number>42</number>
+        <text>#combine( Antiviral behandling vid herpes simplex samt herpes zoster )</text>
+    </query>
+    <query>
+        <number>41</number>
+        <text>#combine( Erytropoietinbehandling vid anemi i samband med cancer )</text>
+    </query>
+    <query>
+        <number>39</number>
+        <text>#combine( Medicinsk behandling vid alzheimers sjukdom )</text>
+    </query>
+    <query>
+        <number>38</number>
+        <text>#combine( Viagra och högt blodtryck )</text>
+    </query>
+    <query>
+        <number>37</number>
+        <text>#combine( Allvarliga biverkningar vid nyttjande av naturläkemedel )</text>
+    </query>
+    <query>
+        <number>36</number>
+        <text>#combine( Effekter och interaktioner vid användning av waran )</text>
+    </query>
+    <query>
+        <number>32</number>
+        <text>#combine( Behandling med SSRIpreparat vid depression hos barn )</text>
+    </query>
+    <query>
+        <number>31</number>
+        <text>#combine( Behandling med SSRIpreparat vid depression hos gravida )</text>
+    </query>
+    <query>
+        <number>28</number>
+        <text>#combine( Behandling med bensodiazepiner )</text>
+    </query>
+    <query>
+        <number>27</number>
+        <text>#combine( Oxascand som ångestdämpande vid alkoholavgiftning )</text>
+    </query>
+    <query>
+        <number>26</number>
+        <text>#combine( Ställa diagnosen akut koronart syndrom )</text>
+    </query>
+    <query>
+        <number>25</number>
+        <text>#combine( Symtom och behandling efter TIA )</text>
+    </query>
+    <query>
+        <number>24</number>
+        <text>#combine( Risker vid användning av neuroleptika )</text>
+    </query>
+    <query>
+        <number>23</number>
+        <text>#combine( Risker vid användning av neuroleptika )</text>
+    </query>
+    <query>
+        <number>21</number>
+        <text>#combine( Antibiotika som bör undvikas före och under graviditet )</text>
+    </query>
+    <query>
+        <number>20</number>
+        <text>#combine( Licenspreparat vid hudsjukdom )</text>
+    </query>
+    <query>
+        <number>19</number>
+        <text>#combine( Johannesört och läkemedelsanvändning läkemedelskonsumtion )</text>
+    </query>
+    <query>
+        <number>18</number>
+        <text>#combine( Hormonbehandling under klimakteriet och risken för cervixcancer )</text>
+    </query>
+    <query>
+        <number>16</number>
+        <text>#combine( Hormonbehandling under klimakteriet och risken för bröstcancer )</text>
+    </query>
+    <query>
+        <number>13</number>
+        <text>#combine( Concerta vid behandling av ADHD )</text>
+    </query>
+    <query>
+        <number>12</number>
+        <text>#combine( Xenical och mängden fett man tar upp från kost )</text>
+    </query>
+    <query>
+        <number>11</number>
+        <text>#combine( Biverkningar hos reductil och xenical )</text>
+    </query>
+    <query>
+        <number>10</number>
+        <text>#combine( Att behandla med xenical vid samtidig diabetes ocheller högt blodtryck )</text>
+    </query>
+    <query>
+        <number>9</number>
+        <text>#combine( Testosteron fetma och blodtryck hos män )</text>
+    </query>
+    <query>
+        <number>8</number>
+        <text>#combine( Biverkningar vid medicinsk behandling av fetma )</text>
+    </query>
+    <query>
+        <number>7</number>
+        <text>#combine( Biverkningar vid cellgiftsbehandling av cancer )</text>
+    </query>
+    <query>
+        <number>4</number>
+        <text>#combine( Blodpropp vid användning av östrogen och gestagen)</text>
+    </query>
+    <query>
+        <number>2</number>
+        <text>#combine( Försiktighet vid behandling med erytromycin under graviditet )</text>
+    </query>
+    <query>
+        <number>1</number>
+        <text>#combine( Fettsnål kosts inverkan på LDL och HDL )</text>
+    </query>
+    <trecFormat>true</trecFormat>
 </parameters>
