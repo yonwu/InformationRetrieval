@@ -21,7 +21,7 @@ def get_config_from_file(file):
                 topic = line.strip('<TOPNO>').strip('</TOPNO>')
             if line.startswith('<TITLE>'):
                 title = line.strip('<TITLE>').strip('</TITLE>').translate(str.maketrans('', '', string.punctuation))
-                title = '#combin(' + title + ')'
+                title = '#combine(' + title + ')'
         query_config[topic] = title
 
     return query_config
@@ -39,6 +39,10 @@ def create_query_tree(key, value):
 def update_xml(file, topic_configs):
     query_xml = ET.parse(file)
     root = query_xml.getroot()
+    # clean old queries
+    for query in root.findall('query'):
+        root.remove(query)
+    # update with new queries
     for topic_config in topic_configs:
         query_element = create_query_tree(topic_config[0], topic_config[1])
         root.insert(1, query_element)
