@@ -43,7 +43,7 @@ def update_xml(file, topic_configs):
     for query in root.findall('query'):
         root.remove(query)
     # update with new queries
-    for topic_config in topic_configs:
+    for topic_config in topic_configs[::-1]:
         query_element = create_query_tree(topic_config[0], topic_config[1])
         root.insert(1, query_element)
     query_xml.write(file, encoding='utf-8')
