@@ -23,7 +23,8 @@ def get_config_from_file(file):
                 title = line.strip('<TITLE>').strip('</TITLE>').translate(str.maketrans('', '', string.punctuation))
                 title = '#combine(' + title + ')'
         query_config[topic] = title
-
+    del query_config['8']
+    del query_config['24']
     return query_config
 
 
@@ -56,3 +57,5 @@ if __name__ == "__main__":
 
     update_xml('my_queries_origin.xml', fifty_topic_config)
     update_xml('my_queries_composed.xml', fifty_topic_config)
+
+
