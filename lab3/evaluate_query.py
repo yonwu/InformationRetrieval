@@ -105,6 +105,7 @@ if __name__ == "__main__":
     precision_at_k_origin = get_precision_at_k(query_ranking_origin, query_score_dict, 10)
     precision_at_k_decompounded = get_precision_at_k(query_ranking_compose, query_score_dict, 10)
 
-
     plot_bi_precision_at_k(precision_at_k_origin, 'origin')
     plot_bi_precision_at_k(precision_at_k_decompounded, 'decompounded')
+
+
