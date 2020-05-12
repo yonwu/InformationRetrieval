@@ -2,6 +2,8 @@ import subprocess
 import os
 import gzip
 import shutil
+import matplotlib.pyplot as plt
+import numpy as np
 
 
 def gunzip(file_path, output_path):
@@ -69,7 +71,6 @@ def get_query_ranking(file):
 
 def get_precision_at_k(query_ranking, query_score_table, k):
     precision_at_k = {}
-    print(query_ranking.keys())
     for topic in query_ranking.keys():
         top_k_rank = query_ranking[topic][:k]
         score = 0
@@ -87,13 +88,23 @@ def get_precision_at_k(query_ranking, query_score_table, k):
     return precision_at_k
 
 
+def plot_bi_precision_at_k(origin_precision_at_k, title):
+    name_list = list(origin_precision_at_k.keys())
+    num_list = list(origin_precision_at_k.values())
+    plt.figure(figsize=(15, 5))
+    plt.bar(range(len(num_list)), num_list, color='blue', tick_label=name_list)
+    plt.title(title)
+    plt.savefig(title + '.png')
+
+
 if __name__ == "__main__":
     query_score_dict = create_query_score_dict('./eval_file')
-    #print(sorted(query_score_dict.keys()))
     query_ranking_origin = get_query_ranking('result_origin')
-    #print(sorted(query_ranking_origin.keys()))
     query_ranking_compose = get_query_ranking('result_compose')
-    #print(sorted(query_ranking_compose.keys()))
 
     precision_at_k_origin = get_precision_at_k(query_ranking_origin, query_score_dict, 10)
-    print(len(precision_at_k_origin))
+    precision_at_k_decompounded = get_precision_at_k(query_ranking_compose, query_score_dict, 10)
+
+
+    plot_bi_precision_at_k(precision_at_k_origin, 'origin')
+    plot_bi_precision_at_k(precision_at_k_decompounded, 'decompounded')
