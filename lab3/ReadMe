@@ -33,3 +33,6 @@ user need to put all the query ranking result with different returned file numbe
 the directory to the code:
     file_number_eval_dir = './evaluate_file_number'
 The script will parse each file in this directory and plot precisioin@k and map for each result for the user.
+
+
+All the code are also saved at: /home/m19/yongchao/IR_dev/InformationRetrieval/lab3
