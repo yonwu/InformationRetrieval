@@ -162,5 +162,38 @@ if __name__ == "__main__":
     plot_result(map_origin, 'MAP_origin')
     plot_result(map_decompounded, 'MAP_decompounded')
 
-    test_tmp = mean_everage_precision_topic(query_ranking_origin, query_score_dict, 27)
-    print(test_tmp)
+    # VG part to evaluate return docs numbers affect
+    file_number_eval_dir = './evaluate_file_number'
+    for dirName, subdirList, fileList in os.walk(file_number_eval_dir):
+        precision_at_k_origin_all = {}
+        map_origin_all = {}
+        for fname in fileList:
+            f = os.path.join(file_number_eval_dir, fname)
+            query_ranking_origin_each = get_query_ranking(f)
+            precision_at_k_origin_each = get_precision_at_k(query_ranking_origin_each, query_score_dict, 10)
+            precision_at_k_origin_all[fname]=(precision_at_k_origin_each)
+            map_origin_each = mean_everage_precision(query_ranking_origin_each, query_score_dict)
+            map_origin_all[fname] = map_origin_each
+
+    for precision_at_k_origin_each in precision_at_k_origin_all.items():
+        filename = precision_at_k_origin_each[0]
+        result = precision_at_k_origin_each[1]
+        plot_result(result, filename+'_precision@k')
+
+    for map_origin_each in map_origin_all.items():
+        filename = map_origin_each[0]
+        result = map_origin_each[1]
+        plot_result(result, filename+'_MAP')
+
+
+
+
+
+
+
+
+
+
+
+
+
