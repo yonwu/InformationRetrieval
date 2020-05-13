@@ -122,6 +122,13 @@ def mean_everage_precision(query_ranking, query_score_table):
     return map_topics
 
 
+# get Map for one topic
+def mean_everage_precision_topic(query_ranking, query_score_table, topic):
+    query_ranking_topic = {topic: query_ranking[topic]}
+    map_one_topic = mean_everage_precision(query_ranking_topic, query_score_table)
+    return map_one_topic
+
+
 # plot result
 def plot_result(result, title):
     name_list = list(result.keys())
@@ -154,3 +161,6 @@ if __name__ == "__main__":
 
     plot_result(map_origin, 'MAP_origin')
     plot_result(map_decompounded, 'MAP_decompounded')
+
+    test_tmp = mean_everage_precision_topic(query_ranking_origin, query_score_dict, 27)
+    print(test_tmp)
