@@ -1,0 +1,35 @@
+
+
+# how to generate xml query
+
+python3 evaluate_query.py
+Note: this script will parse the file "MedTopics.txt" and append the query configuration as XML element to
+"my_queries_composed.xml" and "my_queries_origin.xml". The script will first cleann all the query element in the xml
+and update will new configuration.Use need to set the path of "MedTopics.txt" in the code, and also place
+"my_queries_composed.xml" and "my_queries_origin.xml" in the same directory level.
+
+
+# after generate xml query
+user need to run the query command and save the result into files:
+
+  IndriRunQuery my_queries_origin.xml -count=100 > result_origin
+  IndriRunQuery my_queries_composed.xml -count=100 > result_compose
+
+# how to evaluate the query
+
+python3 evaluate_query.py
+
+Note: This script will loop the qrels directory, first clean old *.txt files, then extract all the qrel files.
+So, user need to specify the directory for qrels:
+    query_score_dict = create_query_score_dict('./eval_file')
+user also needs to reuse the query ranking result file result_origin and result_compose with:
+    query_ranking_origin = get_query_ranking('result_origin')
+    query_ranking_compose = get_query_ranking('result_compose')
+The script will parse the files and carry evaluation and save the plotting files locally.
+This script will also run the VG part automatically
+
+# For VG part,
+user need to put all the query ranking result with different returned file numbers in one directory and specify
+the directory to the code:
+    file_number_eval_dir = './evaluate_file_number'
+The script will parse each file in this directory and plot precisioin@k and map for each result for the user.
