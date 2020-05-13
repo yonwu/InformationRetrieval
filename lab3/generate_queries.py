@@ -3,11 +3,13 @@ import xml.etree.ElementTree as ET
 from itertools import islice
 
 
+# take top n items, use to take 50 topics
 def take(n, iterable):
     # "Return first n items of the iterable as a list"
     return list(islice(iterable, n))
 
 
+# get query topic and tile, store in data structure, delete 24, and 8 which does not have evaluation file
 def get_config_from_file(file):
     with open(file, "r") as infile:
         sents = infile.read().split("\n\n")
@@ -28,6 +30,7 @@ def get_config_from_file(file):
     return query_config
 
 
+# create query xml element
 def create_query_tree(key, value):
     newtree = ET.Element('query')
     number_element = ET.SubElement(newtree, 'number')
@@ -37,6 +40,7 @@ def create_query_tree(key, value):
     return newtree
 
 
+# update query xml file
 def update_xml(file, topic_configs):
     query_xml = ET.parse(file)
     root = query_xml.getroot()
@@ -57,5 +61,3 @@ if __name__ == "__main__":
 
     update_xml('my_queries_origin.xml', fifty_topic_config)
     update_xml('my_queries_composed.xml', fifty_topic_config)
-
-
